@@ -1,0 +1,14 @@
+{
+  "checks": {
+    "qi2": true,
+    "qi_qj": true,
+    "qj2": true,
+    "qj_qi": true,
+    "qj_qk": true,
+    "qk2": true,
+    "qk_qi": true
+  },
+  "mapping": "qi=(-i)sigma_x, qj=(-i)sigma_y, qk=(-i)sigma_z",
+  "ok": true,
+  "theorem": "pauli_quaternion_bridge_protocol_v1"
+}

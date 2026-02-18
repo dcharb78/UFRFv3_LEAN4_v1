@@ -1,0 +1,57 @@
+{
+  "theorem": "acoustic_critical_positions_protocol_v1",
+  "claim_subset": {
+    "formula": "f = 432 * (n/13)",
+    "critical_n": [
+      {
+        "num": 5,
+        "den": 2
+      },
+      {
+        "num": 11,
+        "den": 2
+      },
+      {
+        "num": 17,
+        "den": 2
+      },
+      {
+        "num": 10,
+        "den": 1
+      },
+      {
+        "num": 23,
+        "den": 2
+      }
+    ]
+  },
+  "structural_checks": {
+    "count": 5,
+    "ordered_n": true,
+    "ordered_freqs": true,
+    "rest_position_is_n10": true,
+    "rest_frequency_equals_4320_over_13": true,
+    "freqs_exact": [
+      {
+        "num": 1080,
+        "den": 13
+      },
+      {
+        "num": 2376,
+        "den": 13
+      },
+      {
+        "num": 3672,
+        "den": 13
+      },
+      {
+        "num": 4320,
+        "den": 13
+      },
+      {
+        "num": 4968,
+        "den": 13
+      }
+    ]
+  }
+}

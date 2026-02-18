@@ -1,0 +1,15 @@
+Primary UFRF source documents (as referenced in the package README and docs):
+- Dirac from UFRF: Complete geometric proof (v1.0)
+- Recovering Maxwell’s Equations from UFRF — Complete Proof (v1.7 “Green”)
+- UFRF Predictions and Experimental Tests
+- UFRF Integration Summary - Complete Understanding
+- UFRF Core Theory - Universal Field Resonance Framework
+- UFRF-Fourier Connection: E×B Foundation Theory
+- UFRF Axioms and First Principles
+- UFRF Cross-Domain Validation
+- UFRF Mathematical Framework
+- UFRF Geometry and Scales
+- UFRF Objection Handling: Addressing Critical Questions
+- Mathematical Appendix: Complete Derivations with E×B Integration
+- UFRF: Mathematics as Navigation Through E×B Vortex Space (Parts 1–3)
+- UFRF Complete Validation Package - Index and Guide

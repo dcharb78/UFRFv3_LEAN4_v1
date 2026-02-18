@@ -1,0 +1,36 @@
+{
+  "cases": 15625,
+  "definitions": {
+    "I1_fromF": "(F01^2+F02^2+F03^2)-(F23^2+F31^2+F12^2)",
+    "I2_fromF": "F01*F23+F02*F31+F03*F12",
+    "Q": "I1_fromF^2 + I2_fromF^2"
+  },
+  "i1_sign_flip_all": true,
+  "i2_sign_flip_all": true,
+  "ok": true,
+  "q_invariant_iterates_0_to_4_all": true,
+  "q_invariant_one_step_all": true,
+  "theorem": "maxwell_tensor_duality_noether_protocol_v1",
+  "window": {
+    "max": 2,
+    "min": -2
+  },
+  "witness": {
+    "b": [
+      -2,
+      -2,
+      -2
+    ],
+    "e": [
+      -2,
+      -2,
+      -2
+    ],
+    "i1": 0,
+    "i1_star": 0,
+    "i2": 12,
+    "i2_star": -12,
+    "q": 144,
+    "q_star": 144
+  }
+}

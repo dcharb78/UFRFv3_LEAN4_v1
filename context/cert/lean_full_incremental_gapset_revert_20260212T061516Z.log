@@ -1,0 +1,988 @@
+⚠ [7586/7629] Replayed CycleStep_Orbit_Theorem
+warning: lean/CycleStep_Orbit_Theorem.lean:191:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7589/7629] Replayed CycleStep_Orbit_NAxes_Theorem
+warning: lean/CycleStep_Orbit_NAxes_Theorem.lean:61:79: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [lcmList, ih hxs, List.prod_cons, Nat.Coprime.lcm_eq_mul hcop_prod,̵ ̵N̵a̵t̵.̵m̵u̵l̵_̵a̵s̵s̵o̵c̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [7590/7629] Replayed Observer_Tick_Axis_Family_Theorem
+warning: lean/Observer_Tick_Axis_Family_Theorem.lean:94:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7593/7629] Replayed Diminished_Chord_ZMod12_Theorem
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:107:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:109:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:116:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:118:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:125:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:127:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:99:10: This simp argument is unused:
+  a
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵a̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:100:10: This simp argument is unused:
+  a
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵a̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:148:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:176:14: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:179:14: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:191:14: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:194:14: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:205:14: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Diminished_Chord_ZMod12_Theorem.lean:208:14: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7602/7726] Replayed Decimal_Mod13_Concurrency_Theorem
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:52:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:54:12: This simp argument is unused:
+  ten_pow_three_add_one_mod13
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵t̵e̵n̵_̵p̵o̵w̵_̵t̵h̵r̵e̵e̵_̵a̵d̵d̵_̵o̵n̵e̵_̵m̵o̵d̵1̵3̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:64:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:68:12: This simp argument is unused:
+  ten_pow_six_mod13
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵t̵e̵n̵_̵p̵o̵w̵_̵s̵i̵x̵_̵m̵o̵d̵1̵3̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:76:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:82:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:78:12: This simp argument is unused:
+  ten_pow_six_mod13
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵t̵e̵n̵_̵p̵o̵w̵_̵s̵i̵x̵_̵m̵o̵d̵1̵3̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:88:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:94:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7603/7726] Replayed Multidimensional_Ticks_Theorem
+warning: lean/Multidimensional_Ticks_Theorem.lean:32:29: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [tick10, Nat.pow_add, N̵a̵t̵.̵m̵u̵l̵_̵a̵s̵s̵o̵c̵,̵ ̵Nat.mul_left_comm, Nat.mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:47:29: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [tick10, Nat.mul_mod, N̵a̵t̵.̵m̵u̵l̵_̵a̵s̵s̵o̵c̵,̵ ̵Nat.mul_left_comm, Nat.mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:47:44: This simp argument is unused:
+  Nat.mul_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [tick10, Nat.mul_mod, Nat.mul_assoc, N̵a̵t̵.̵m̵u̵l̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:47:63: This simp argument is unused:
+  Nat.mul_comm
+
+Hint: Omit it from the simp argument list.
+  simp [tick10, Nat.mul_mod, Nat.mul_assoc, Nat.mul_left_comm,̵ ̵N̵a̵t̵.̵m̵u̵l̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:56:20: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:128:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:135:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:380:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:436:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:508:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:516:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:685:23: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:693:23: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [7606/7726] Replayed REST_Seam_Core_Theorem
+warning: lean/REST_Seam_Core_Theorem.lean:45:29: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [birth, Nat.succ_mul, N̵a̵t̵.̵a̵d̵d̵_̵a̵s̵s̵o̵c̵,̵ ̵Nat.add_comm, Nat.add_left_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_Core_Theorem.lean:45:58: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [birth, Nat.succ_mul, Nat.add_assoc, Nat.add_comm,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_Core_Theorem.lean:49:36: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [seamTick, rest, birth_succ, Nat.add_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm, Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_Core_Theorem.lean:49:51: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [seamTick, rest, birth_succ, Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [7608/7726] Replayed C_Transform_Identity_Theorem
+warning: lean/C_Transform_Identity_Theorem.lean:25:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7610/7726] Replayed NodeClosure_Singleton_Generic_Theorem
+warning: lean/NodeClosure_Singleton_Generic_Theorem.lean:29:28: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7611/7726] Replayed Seam_Generic_API_Theorem
+warning: lean/Seam_Generic_API_Theorem.lean:34:39: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [seamTick, birth, Nat.succ_mul, Nat.add_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm, Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Seam_Generic_API_Theorem.lean:34:54: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [seamTick, birth, Nat.succ_mul, Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Seam_Generic_API_Theorem.lean:51:10: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Seam_Generic_API_Theorem.lean:49:50: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [state, seamTick, Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Seam_Generic_API_Theorem.lean:61:10: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Seam_Generic_API_Theorem.lean:75:10: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7616/7726] Replayed REST_Seam_AspectProjection_Bridge_Theorem
+warning: lean/REST_Seam_AspectProjection_Bridge_Theorem.lean:27:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_AspectProjection_Bridge_Theorem.lean:65:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_AspectProjection_Bridge_Theorem.lean:104:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_AspectProjection_Bridge_Theorem.lean:144:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7617/7726] Replayed REST_Seam_SystemCoordMixed_Bridge_Theorem
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:31:49: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm, Nat.add_comm,
+  ̵  ̵ ̵ ̵Nat.mul_assoc,
+  ̲  ̲ ̲ ̲Nat.mul_left_comm, Nat.mul_comm, hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:31:64: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm, Nat.mul_assoc,
+  ̲  ̲ ̲ ̲Nat.mul_left_comm, Nat.mul_comm, hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:32:4: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_assoc, Nat.add_left_comm, Nat.add_comm,
+      Nat.mul_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵m̵u̵l_̵l̵eft_comm, Nat.mul_comm, hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:32:19: This simp argument is unused:
+  Nat.mul_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_assoc, Nat.add_left_comm, Nat.add_comm,
+      Nat.mul_assoc, Nat.mul_l̵e̵f̵t̵_̵comm, N̵a̵t̵.̵m̵u̵l̵_̵c̵o̵m̵m̵,̵ ̵hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:32:38: This simp argument is unused:
+  Nat.mul_comm
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_assoc, Nat.add_left_comm, Nat.add_comm,
+      Nat.mul_assoc, Nat.mul_left_comm, N̵a̵t̵.̵m̵u̵l̵_̵c̵o̵m̵m̵,̵ ̵hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:43:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:59:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:76:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7618/7726] Replayed REST_Seam_Unified_Interface_Theorem
+warning: lean/REST_Seam_Unified_Interface_Theorem.lean:81:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Unified_Interface_Theorem.lean:136:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Unified_Interface_Theorem.lean:258:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7622/7726] Replayed Decimal_Mod1001_Concurrency_Theorem
+warning: lean/Decimal_Mod1001_Concurrency_Theorem.lean:46:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod1001_Concurrency_Theorem.lean:90:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod1001_Concurrency_Theorem.lean:97:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7625/7726] Replayed Exact_Cancellation_Theorem
+warning: lean/Exact_Cancellation_Theorem.lean:85:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Exact_Cancellation_Theorem.lean:72:33: This simp argument is unused:
+  mul_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [mul_assoc, mul_comm,̵ ̵m̵u̵l̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Exact_Cancellation_Theorem.lean:108:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7626/7726] Replayed Exact_Cancellation_Product_Theorem
+warning: lean/Exact_Cancellation_Product_Theorem.lean:50:10: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:59:10: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:52:16: This simp argument is unused:
+  mul_comm
+
+Hint: Omit it from the simp argument list.
+  simp [̵m̵u̵l̵_̵c̵o̵m̵m̵,̵ ̵m̵u̵l̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵[̲m̲u̲l̲_̲l̲e̲f̲t̲_̲c̲o̲m̲m̲,̲ mul_assoc]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:52:26: This simp argument is unused:
+  mul_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [mul_comm, mul_l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵m̵u̵l̵_̵assoc]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:52:41: This simp argument is unused:
+  mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [mul_comm, mul_left_comm,̵ ̵m̵u̵l̵_̵a̵s̵s̵o̵c̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:107:14: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:112:59: This simp argument is unused:
+  mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [hneg, PowerSeries.rescale_rescale, hscale, mul_a̵s̵s̵o̵c,̵ ̵m̵u̵l̵_̵c̵omm, mul_left_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:112:70: This simp argument is unused:
+  mul_comm
+
+Hint: Omit it from the simp argument list.
+  simp [hneg, PowerSeries.rescale_rescale, hscale, mul_assoc, mul_c̵o̵m̵m̵,̵ ̵m̵u̵l_̵l̵eft_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:112:80: This simp argument is unused:
+  mul_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [hneg, PowerSeries.rescale_rescale, hscale, mul_assoc, mul_comm,̵ ̵m̵u̵l̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:127:45: This simp argument is unused:
+  mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [P, factor_is_even, ih', map_mul,̵ ̵m̵u̵l̵_̵a̵s̵s̵o̵c̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:166:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:160:18: This simp argument is unused:
+  expNegHalfScaled
+
+Hint: Omit it from the simp argument list.
+  simp [bias, e̵x̵p̵N̵e̵g̵H̵a̵l̵f̵S̵c̵a̵l̵e̵d̵,̵ ̵ExactCancellation.E, PowerSeries.rescale_zero_apply]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:160:57: This simp argument is unused:
+  PowerSeries.rescale_zero_apply
+
+Hint: Omit it from the simp argument list.
+  simp [bias, expNegHalfScaled, ExactCancellation.E,̵ ̵P̵o̵w̵e̵r̵S̵e̵r̵i̵e̵s̵.̵r̵e̵s̵c̵a̵l̵e̵_̵z̵e̵r̵o̵_̵a̵p̵p̵l̵y̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:201:10: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:205:16: This simp argument is unused:
+  mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [̵m̵u̵l̵_̵a̵s̵s̵o̵c̵,̵ ̵m̵u̵l̵_̵c̵o̵m̵m̵,̵[̲m̲u̲l̲_̲c̲o̲m̲m̲,̲ mul_left_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Exact_Cancellation_Product_Theorem.lean:224:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7631/7726] Replayed Gap_Set_Prime_Theorem
+warning: lean/Gap_Set_Prime_Theorem.lean:422:10: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Gap_Set_Prime_Theorem.lean:436:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7632/7726] Replayed Golden_Silver_Inverse_Identities_Theorem
+warning: lean/Golden_Silver_Inverse_Identities_Theorem.lean:22:36: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Golden_Silver_Inverse_Identities_Theorem.lean:35:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7634/7726] Replayed Interface_Polynomial_Identities_Theorem
+warning: lean/Interface_Polynomial_Identities_Theorem.lean:25:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Interface_Polynomial_Identities_Theorem.lean:65:41: Try `simp at hρroot` instead of `simpa using hρroot`
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7639/7726] Replayed Observer_Scale_Projection_Composition_Theorem
+warning: lean/Observer_Scale_Projection_Composition_Theorem.lean:43:42: This simp argument is unused:
+  add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Int.cast_add, mul_add, add_assoc, a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Observer_Scale_Projection_Composition_Theorem.lean:43:57: This simp argument is unused:
+  add_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Int.cast_add, mul_add, add_assoc, add_left_comm,̵ ̵a̵d̵d̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [7651/7726] Replayed Moonshine_Inevitability_From_UFRF_Theorem
+warning: lean/Moonshine_Inevitability_From_UFRF_Theorem.lean:46:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7652/7726] Replayed Moonshine_LogMod_Coordinates_Theorem
+warning: lean/Moonshine_LogMod_Coordinates_Theorem.lean:267:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Moonshine_LogMod_Coordinates_Theorem.lean:273:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Moonshine_LogMod_Coordinates_Theorem.lean:289:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7659/7726] Replayed Node_Building_Monotonicity_Theorem
+warning: lean/Node_Building_Monotonicity_Theorem.lean:90:8: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Node_Building_Monotonicity_Theorem.lean:93:34: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7675/7726] Replayed Quarter_Cycle_ZMod_Theorem
+warning: lean/Quarter_Cycle_ZMod_Theorem.lean:27:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Quarter_Cycle_ZMod_Theorem.lean:80:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Quarter_Cycle_ZMod_Theorem.lean:85:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7676/7726] Replayed QuaternionGroup_Octave_Lens_Theorem
+warning: lean/QuaternionGroup_Octave_Lens_Theorem.lean:44:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7679/7726] Replayed REST_Seam_Classification_Theorem
+warning: lean/REST_Seam_Classification_Theorem.lean:24:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Classification_Theorem.lean:22:42: unused variable `hr`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [7681/7726] Replayed REST_Seam_Overlap_Theorem
+warning: lean/REST_Seam_Overlap_Theorem.lean:27:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Overlap_Theorem.lean:30:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Overlap_Theorem.lean:38:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Overlap_Theorem.lean:39:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Overlap_Theorem.lean:47:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Overlap_Theorem.lean:48:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Overlap_Theorem.lean:56:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Overlap_Theorem.lean:57:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7682/7726] Replayed Recursive_Grid_Base10_Theorem
+warning: lean/Recursive_Grid_Base10_Theorem.lean:54:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Base10_Theorem.lean:70:44: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Base10_Theorem.lean:82:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Base10_Theorem.lean:84:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Base10_Theorem.lean:111:8: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Base10_Theorem.lean:118:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Base10_Theorem.lean:108:14: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.add_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm, Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_Base10_Theorem.lean:151:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7683/7726] Replayed REST_Seam_RecursiveGrid_Bridge_Theorem
+warning: lean/REST_Seam_RecursiveGrid_Bridge_Theorem.lean:35:33: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_RecursiveGrid_Bridge_Theorem.lean:35:69: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/REST_Seam_RecursiveGrid_Bridge_Theorem.lean:35:69: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/REST_Seam_RecursiveGrid_Bridge_Theorem.lean:49:20: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.add_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm, Nat.add_comm, Nat.mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_RecursiveGrid_Bridge_Theorem.lean:49:35: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm, Nat.mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [7684/7726] Replayed REST_Seam_Transport_Core_Theorem
+warning: lean/REST_Seam_Transport_Core_Theorem.lean:25:33: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Transport_Core_Theorem.lean:25:69: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/REST_Seam_Transport_Core_Theorem.lean:25:69: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/REST_Seam_Transport_Core_Theorem.lean:37:33: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Transport_Core_Theorem.lean:37:69: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/REST_Seam_Transport_Core_Theorem.lean:37:69: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [7686/7726] Replayed Recursive_Grid_Base13_Theorem
+warning: lean/Recursive_Grid_Base13_Theorem.lean:51:60: This simp argument is unused:
+  Nat.mul_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.pow_succ, Nat.div_div_eq_div_mul, Nat.mul_comm, N̵a̵t̵.̵m̵u̵l̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.mul_assoc]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_Base13_Theorem.lean:51:79: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.pow_succ, Nat.div_div_eq_div_mul, Nat.mul_comm, Nat.mul_left_comm,̵ ̵N̵a̵t̵.̵m̵u̵l̵_̵a̵s̵s̵o̵c̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_Base13_Theorem.lean:72:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Base13_Theorem.lean:93:8: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Base13_Theorem.lean:109:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Base13_Theorem.lean:111:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Base13_Theorem.lean:146:40: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Base13_Theorem.lean:148:39: This simp argument is unused:
+  Nat.mul_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.pow_add, Nat.mul_comm, N̵a̵t̵.̵m̵u̵l̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.mul_assoc]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_Base13_Theorem.lean:148:58: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.pow_add, Nat.mul_comm, Nat.mul_left_comm,̵ ̵N̵a̵t̵.̵m̵u̵l̵_̵a̵s̵s̵o̵c̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_Base13_Theorem.lean:173:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Base13_Theorem.lean:215:8: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Base13_Theorem.lean:224:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Base13_Theorem.lean:228:60: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7687/7726] Replayed RecursiveGrid_IndexOfIndexes_Bridge_Theorem
+warning: lean/RecursiveGrid_IndexOfIndexes_Bridge_Theorem.lean:77:12: This simp argument is unused:
+  h
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵h̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/RecursiveGrid_IndexOfIndexes_Bridge_Theorem.lean:102:18: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/RecursiveGrid_IndexOfIndexes_Bridge_Theorem.lean:121:63: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7688/7726] Replayed Recursive_Grid_Generic_Base_Theorem
+warning: lean/Recursive_Grid_Generic_Base_Theorem.lean:53:60: This simp argument is unused:
+  Nat.mul_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.pow_succ, Nat.div_div_eq_div_mul, Nat.mul_comm, N̵a̵t̵.̵m̵u̵l̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.mul_assoc]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_Generic_Base_Theorem.lean:53:79: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.pow_succ, Nat.div_div_eq_div_mul, Nat.mul_comm, Nat.mul_left_comm,̵ ̵N̵a̵t̵.̵m̵u̵l̵_̵a̵s̵s̵o̵c̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_Generic_Base_Theorem.lean:70:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Generic_Base_Theorem.lean:87:38: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Generic_Base_Theorem.lean:99:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Generic_Base_Theorem.lean:101:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Generic_Base_Theorem.lean:129:8: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Generic_Base_Theorem.lean:138:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Generic_Base_Theorem.lean:142:48: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Generic_Base_Theorem.lean:126:14: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.add_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm, Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_Generic_Base_Theorem.lean:158:34: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_Generic_Base_Theorem.lean:160:39: This simp argument is unused:
+  Nat.mul_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.pow_add, Nat.mul_comm, N̵a̵t̵.̵m̵u̵l̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.mul_assoc]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_Generic_Base_Theorem.lean:160:58: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.pow_add, Nat.mul_comm, Nat.mul_left_comm,̵ ̵N̵a̵t̵.̵m̵u̵l̵_̵a̵s̵s̵o̵c̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_Generic_Base_Theorem.lean:177:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7689/7726] Replayed Recursive_Grid_CarryCascade_Theorem
+warning: lean/Recursive_Grid_CarryCascade_Theorem.lean:66:32: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_CarryCascade_Theorem.lean:67:34: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_CarryCascade_Theorem.lean:68:8: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_CarryCascade_Theorem.lean:60:41: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_CarryCascade_Theorem.lean:93:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_CarryCascade_Theorem.lean:95:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_CarryCascade_Theorem.lean:120:51: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7690/7726] Replayed Recursive_Grid_BlockPeriodicity_Theorem
+warning: lean/Recursive_Grid_BlockPeriodicity_Theorem.lean:59:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_BlockPeriodicity_Theorem.lean:61:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Recursive_Grid_BlockPeriodicity_Theorem.lean:48:14: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [̵N̵a̵t̵.̵m̵u̵l̵_̵a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵m̵u̵l̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵[̲N̲a̲t̲.̲m̲u̲l̲_̲l̲e̲f̲t̲_̲c̲o̲m̲m̲,̲ Nat.mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_BlockPeriodicity_Theorem.lean:48:48: This simp argument is unused:
+  Nat.mul_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.mul_assoc, Nat.mul_left_comm,̵ ̵N̵a̵t̵.̵m̵u̵l̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_BlockPeriodicity_Theorem.lean:91:32: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.add_comm, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_assoc]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_BlockPeriodicity_Theorem.lean:91:51: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.add_comm, Nat.add_left_comm,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵a̵s̵s̵o̵c̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Recursive_Grid_BlockPeriodicity_Theorem.lean:114:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7694/7726] Replayed Semigroup_Concurrency_Theorem
+warning: lean/Semigroup_Concurrency_Theorem.lean:51:16: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.add_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm, Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Semigroup_Concurrency_Theorem.lean:51:31: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Semigroup_Concurrency_Theorem.lean:65:16: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.add_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm, Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Semigroup_Concurrency_Theorem.lean:65:31: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [7695/7726] Replayed Semigroup_Standard_Semantics_Theorem
+warning: lean/Semigroup_Standard_Semantics_Theorem.lean:72:16: This simp argument is unused:
+  List.append_assoc
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵L̵i̵s̵t̵.̵a̵p̵p̵e̵n̵d̵_̵a̵s̵s̵o̵c̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Semigroup_Standard_Semantics_Theorem.lean:87:42: This simp argument is unused:
+  Nat.add_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Nat.add_assoc, Nat.add_left_comm, N̵a̵t̵.̵a̵d̵d̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_mul]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Semigroup_Standard_Semantics_Theorem.lean:110:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7699/7726] Replayed SmallWorld_Overlap_Flip_Theorem
+warning: lean/SmallWorld_Overlap_Flip_Theorem.lean:110:16: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7705/7726] Replayed Tn_Truncated_Engine
+warning: lean/Tn_Truncated_Engine.lean:70:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Tn_Truncated_Engine.lean:102:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Tn_Truncated_Engine.lean:142:8: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Tn_Truncated_Engine.lean:216:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Tn_Truncated_Engine.lean:224:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Tn_Truncated_Engine.lean:396:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Tn_Truncated_Engine.lean:372:35: This simp argument is unused:
+  mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [hxsum, hA, hB,̵ ̵m̵u̵l̵_̵a̵s̵s̵o̵c̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Tn_Truncated_Engine.lean:405:62: This simp argument is unused:
+  scaleCoeffs
+
+Hint: Omit it from the simp argument list.
+  simp [aCoeffs, ih, factorCoeffs_scale, mulCoeffs_scale,̵ ̵s̵c̵a̵l̵e̵C̵o̵e̵f̵f̵s̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [7706/7726] Replayed Tn_Exact_Definition
+warning: lean/Tn_Exact_Definition.lean:64:31: This simp argument is unused:
+  mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [scaleCoeffs, degIndex, m̵u̵l̵_̵a̵s̵s̵o̵c̵,̵ ̵mul_left_comm, mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Tn_Exact_Definition.lean:64:57: This simp argument is unused:
+  mul_comm
+
+Hint: Omit it from the simp argument list.
+  simp [scaleCoeffs, degIndex, mul_assoc, mul_left_comm,̵ ̵m̵u̵l̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Tn_Exact_Definition.lean:74:31: This simp argument is unused:
+  mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [scaleCoeffs, degIndex, m̵u̵l̵_̵a̵s̵s̵o̵c̵,̵ ̵mul_left_comm, mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Tn_Exact_Definition.lean:74:57: This simp argument is unused:
+  mul_comm
+
+Hint: Omit it from the simp argument list.
+  simp [scaleCoeffs, degIndex, mul_assoc, mul_left_comm,̵ ̵m̵u̵l̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Tn_Exact_Definition.lean:141:40: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Tn_Exact_Definition.lean:156:8: This simp argument is unused:
+  TnTrunc
+
+Hint: Omit it from the simp argument list.
+  simp [T̵n̵T̵r̵u̵n̵c̵,̵ ̵hx1_le_N, hx2_le_N, idxOfLe, mul_assoc, mul_left_comm, mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Tn_Exact_Definition.lean:156:72: This simp argument is unused:
+  mul_comm
+
+Hint: Omit it from the simp argument list.
+  simp [TnTrunc, hx1_le_N, hx2_le_N, idxOfLe, mul_assoc, mul_left_comm,̵ ̵m̵u̵l̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [7708/7726] Replayed Tn_Singleton_ClosedForm
+warning: lean/Tn_Singleton_ClosedForm.lean:32:39: This simp argument is unused:
+  degIndex_val
+
+Hint: Omit it from the simp argument list.
+  simp [TnTruncated.aCoeffs, TnTruncated.mulCoeffs_one_left, TnTruncated.factorCoeffs,
+      TnTruncated.factorCoeff, degIndex,̵ ̵d̵e̵g̵I̵n̵d̵e̵x̵_̵v̵a̵l̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [7716/7726] Replayed Trinity_HalfStep_Dual_Theorem
+warning: lean/Trinity_HalfStep_Dual_Theorem.lean:42:8: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7720/7726] Replayed UFRF_Global_Gap_Theorem
+warning: lean/UFRF_Global_Gap_Theorem.lean:85:20: Try `simp at hle` instead of `simpa using hle`
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/UFRF_Global_Gap_Theorem.lean:89:20: Try `simp at hle1` instead of `simpa using hle1`
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/UFRF_Global_Gap_Theorem.lean:124:37: Try `simp at htrue` instead of `simpa using htrue`
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/UFRF_Global_Gap_Theorem.lean:187:22: Try `simp at this` instead of `simpa using this`
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/UFRF_Global_Gap_Theorem.lean:189:22: Try `simp at this` instead of `simpa using this`
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/UFRF_Global_Gap_Theorem.lean:191:22: Try `simp at this` instead of `simpa using this`
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7721/7726] Replayed UFRF_Minimal_Semigroup_Seed_Theorem
+warning: lean/UFRF_Minimal_Semigroup_Seed_Theorem.lean:164:8: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/UFRF_Minimal_Semigroup_Seed_Theorem.lean:179:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/UFRF_Minimal_Semigroup_Seed_Theorem.lean:184:12: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7723/7726] Replayed Unity_Cube_Identities
+warning: lean/Unity_Cube_Identities.lean:31:22: This simp argument is unused:
+  pow_two
+
+Hint: Omit it from the simp argument list.
+  simp [pow_succ, p̵o̵w̵_̵t̵w̵o̵,̵ ̵mul_assoc, mul_left_comm, mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Unity_Cube_Identities.lean:31:31: This simp argument is unused:
+  mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [pow_succ, pow_two, m̵u̵l̵_̵a̵s̵s̵o̵c̵,̵ ̵mul_left_comm, mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Unity_Cube_Identities.lean:31:42: This simp argument is unused:
+  mul_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [pow_succ, pow_two, mul_assoc, m̵u̵l̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+Build completed successfully (7726 jobs).

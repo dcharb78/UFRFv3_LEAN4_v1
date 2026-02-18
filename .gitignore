@@ -1,0 +1,19 @@
+# Lean build artifacts
+build/
+.lake/
+lake-packages/
+*.olean
+
+# Large local-only folders (not for public repo)
+_archive/
+_backups/
+
+# Python
+.venv/
+.venv311/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS
+.DS_Store

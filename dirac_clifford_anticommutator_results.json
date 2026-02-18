@@ -1,0 +1,7 @@
+{
+  "clifford_ok": true,
+  "failures": [],
+  "metric": "diag(1,-1,-1,-1)",
+  "representation": "Dirac (standard) with Pauli blocks",
+  "theorem": "dirac_clifford_anticommutator_protocol_v1"
+}

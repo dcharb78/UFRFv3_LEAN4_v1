@@ -1,0 +1,96 @@
+{
+  "theorem": "quantum_hall_n13_prediction_protocol_v1",
+  "claim_subset": {
+    "formula": "nu_n = n/13",
+    "n_min": 1,
+    "n_max": 12,
+    "denominator": 13,
+    "highlight_fraction": {
+      "n": 10,
+      "value_numerator": 10,
+      "value_denominator": 13
+    }
+  },
+  "structural_checks": {
+    "count": 12,
+    "monotone_increasing": true,
+    "all_between_zero_and_one": true,
+    "contains_10_over_13": true,
+    "first_is_1_over_13": true,
+    "last_is_12_over_13": true
+  },
+  "table": [
+    {
+      "n": 1,
+      "numerator": 1,
+      "denominator": 13,
+      "decimal": 0.07692307692307693
+    },
+    {
+      "n": 2,
+      "numerator": 2,
+      "denominator": 13,
+      "decimal": 0.15384615384615385
+    },
+    {
+      "n": 3,
+      "numerator": 3,
+      "denominator": 13,
+      "decimal": 0.23076923076923078
+    },
+    {
+      "n": 4,
+      "numerator": 4,
+      "denominator": 13,
+      "decimal": 0.3076923076923077
+    },
+    {
+      "n": 5,
+      "numerator": 5,
+      "denominator": 13,
+      "decimal": 0.38461538461538464
+    },
+    {
+      "n": 6,
+      "numerator": 6,
+      "denominator": 13,
+      "decimal": 0.46153846153846156
+    },
+    {
+      "n": 7,
+      "numerator": 7,
+      "denominator": 13,
+      "decimal": 0.5384615384615384
+    },
+    {
+      "n": 8,
+      "numerator": 8,
+      "denominator": 13,
+      "decimal": 0.6153846153846154
+    },
+    {
+      "n": 9,
+      "numerator": 9,
+      "denominator": 13,
+      "decimal": 0.6923076923076923
+    },
+    {
+      "n": 10,
+      "numerator": 10,
+      "denominator": 13,
+      "decimal": 0.7692307692307693
+    },
+    {
+      "n": 11,
+      "numerator": 11,
+      "denominator": 13,
+      "decimal": 0.8461538461538461
+    },
+    {
+      "n": 12,
+      "numerator": 12,
+      "denominator": 13,
+      "decimal": 0.9230769230769231
+    }
+  ]
+}

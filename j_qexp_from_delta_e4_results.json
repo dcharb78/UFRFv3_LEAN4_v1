@@ -1,0 +1,38 @@
+{
+  "checks": {
+    "c0_is_744": true,
+    "c1_equals_monster_product_plus_one": true,
+    "c1_is_196884": true,
+    "c2_is_21493760": true,
+    "j_has_q0_term": true,
+    "j_has_q1_term": true,
+    "j_has_qneg1_term": true,
+    "monster_triple_eq_47_59_71": true
+  },
+  "derived": {
+    "monster_product": 196883,
+    "monster_product_plus_one": 196884,
+    "monster_triple": [
+      47,
+      59,
+      71
+    ]
+  },
+  "j_qexp": {
+    "deg_internal": 6,
+    "j_coeffs": {
+      "-1": 1,
+      "0": 744,
+      "1": 196884,
+      "2": 21493760,
+      "3": 864299970,
+      "4": 20245856256,
+      "5": 333202640600
+    },
+    "max_q_power": 5
+  },
+  "params": {
+    "max_q_power": 5
+  },
+  "theorem": "j_qexp_from_delta_e4_protocol_v1"
+}

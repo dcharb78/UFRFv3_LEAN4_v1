@@ -1,0 +1,67 @@
+{
+  "theorem": "projection_zero_distance_identity_protocol_v1",
+  "claim_subset": {
+    "identity_case": "d_M = 0 => ln O = ln O*",
+    "scope": "independent of alpha, S"
+  },
+  "parameters": {
+    "ln_o_star": {
+      "num": 7,
+      "den": 3
+    },
+    "samples_alpha_s": [
+      {
+        "alpha": {
+          "num": 1,
+          "den": 10
+        },
+        "s": {
+          "num": 1,
+          "den": 1
+        }
+      },
+      {
+        "alpha": {
+          "num": 1,
+          "den": 5
+        },
+        "s": {
+          "num": 2,
+          "den": 1
+        }
+      },
+      {
+        "alpha": {
+          "num": 3,
+          "den": 7
+        },
+        "s": {
+          "num": 5,
+          "den": 1
+        }
+      }
+    ]
+  },
+  "structural_checks": {
+    "all_zero_distance_outputs_equal_intrinsic": true,
+    "outputs_zero_distance": [
+      {
+        "num": 7,
+        "den": 3
+      },
+      {
+        "num": 7,
+        "den": 3
+      },
+      {
+        "num": 7,
+        "den": 3
+      }
+    ],
+    "nonzero_distance_witness_differs": true,
+    "witness_value": {
+      "num": 44,
+      "den": 15
+    }
+  }
+}

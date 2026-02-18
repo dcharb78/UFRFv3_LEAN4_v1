@@ -1,0 +1,25 @@
+{
+  "alpha_inv_candidate_bounds_from_pi_d20": {
+    "alpha_hi": "137.036303775878432560127257015511461874582437202320611995865692",
+    "alpha_lo": "137.036303775878432558870072634308942975551221435189128113198944",
+    "alpha_mid": "137.036303775878432559498664824910202425066829318754870054532318",
+    "width": "1.257184381202518899031215767131483882666748E-18"
+  },
+  "measured_reference": {
+    "alpha_measured_ref": "137.035999084",
+    "offset_mid_minus_measured": "0.000304691878432559498664824910202425066829318754870054532318"
+  },
+  "pi_bounds_mathlib_d20": {
+    "pi_hi": "3.14159265358979323847",
+    "pi_lo": "3.14159265358979323846",
+    "width": "1E-20"
+  },
+  "rounding_anchor_9dp": {
+    "anchor": "137.036303776",
+    "anchor_matches_mid_round9": true,
+    "eps_round9": "5E-10",
+    "interval_within_eps_of_anchor": true,
+    "mid_round9": "137.036303776"
+  },
+  "theorem": "fine_structure_alpha_intrinsic_protocol_v1"
+}

@@ -1,0 +1,18 @@
+{
+  "elem_order": [
+    "I",
+    "-I",
+    "qi",
+    "-qi",
+    "qj",
+    "-qj",
+    "qk",
+    "-qk"
+  ],
+  "inverse_ok": true,
+  "observable": "tr2(g*P*g^{-1})",
+  "ok": true,
+  "theorem": "pauli_quaternion_q8_gauge_invariance_protocol_v1",
+  "trace": "tr2(A)=A00+A11",
+  "trace_conjugation_invariant": true
+}

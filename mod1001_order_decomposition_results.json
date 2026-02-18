@@ -1,0 +1,24 @@
+{
+  "theorem": "mod1001_order_decomposition_protocol_v1",
+  "claim_subset": {
+    "axes": [
+      7,
+      11,
+      13
+    ],
+    "composite_modulus": 1001,
+    "return_condition": "10^k \u2261 1"
+  },
+  "structural_checks": {
+    "axis_orders": {
+      "7": 6,
+      "11": 2,
+      "13": 6
+    },
+    "lcm_axis_order": 6,
+    "first_mod1001_return": 6,
+    "mod1001_return_at_6": true,
+    "no_smaller_mod1001_return": true,
+    "no_smaller_simultaneous_axis_return": true
+  }
+}

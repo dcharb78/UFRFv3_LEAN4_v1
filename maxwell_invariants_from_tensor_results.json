@@ -1,0 +1,67 @@
+{
+  "I1": "|E|^2-|B|^2 (c=1)",
+  "I1_fromF": "(F01^2+F02^2+F03^2)-(F23^2+F31^2+F12^2)",
+  "I2": "E\u00b7B",
+  "I2_fromF": "F01*F23+F02*F31+F03*F12",
+  "checks": [
+    {
+      "B": [
+        4,
+        5,
+        6
+      ],
+      "E": [
+        1,
+        2,
+        3
+      ],
+      "I1": -63,
+      "I1_fromF": -63,
+      "I1_ok": true,
+      "I2": 32,
+      "I2_fromF": 32,
+      "I2_ok": true,
+      "name": "generic"
+    },
+    {
+      "B": [
+        0,
+        1,
+        0
+      ],
+      "E": [
+        1,
+        0,
+        0
+      ],
+      "I1": 0,
+      "I1_fromF": 0,
+      "I1_ok": true,
+      "I2": 0,
+      "I2_fromF": 0,
+      "I2_ok": true,
+      "name": "null_plane_wave"
+    },
+    {
+      "B": [
+        -4,
+        3,
+        0
+      ],
+      "E": [
+        3,
+        4,
+        0
+      ],
+      "I1": 0,
+      "I1_fromF": 0,
+      "I1_ok": true,
+      "I2": 0,
+      "I2_fromF": 0,
+      "I2_ok": true,
+      "name": "orth_equal"
+    }
+  ],
+  "ok": true,
+  "theorem": "maxwell_invariants_from_tensor_protocol_v1"
+}

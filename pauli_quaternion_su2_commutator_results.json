@@ -1,0 +1,12 @@
+{
+  "bracket": "[A,B]=AB-BA",
+  "checks": {
+    "comm_qi_qj": true,
+    "comm_qj_qk": true,
+    "comm_qk_qi": true,
+    "jacobi_qi_qj_qk": true
+  },
+  "mapping": "qi=(-i)sigma_x, qj=(-i)sigma_y, qk=(-i)sigma_z",
+  "ok": true,
+  "theorem": "pauli_quaternion_su2_commutator_protocol_v1"
+}

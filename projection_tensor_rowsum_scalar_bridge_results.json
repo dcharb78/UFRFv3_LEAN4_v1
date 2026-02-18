@@ -1,0 +1,39 @@
+{
+  "theorem": "projection_tensor_rowsum_scalar_bridge_protocol_v1",
+  "claim_subset": {
+    "probe": "O* = [1,1,1]",
+    "identity": "tensor_correction_d = row_sum_d"
+  },
+  "structural_checks": {
+    "row_sums_match_corrections": true,
+    "projected_equals_one_plus_rowsum": true,
+    "row_sums": [
+      {
+        "num": 1769,
+        "den": 500
+      },
+      {
+        "num": 903,
+        "den": 1000
+      },
+      {
+        "num": 21,
+        "den": 40
+      }
+    ],
+    "projected": [
+      {
+        "num": 2269,
+        "den": 500
+      },
+      {
+        "num": 1903,
+        "den": 1000
+      },
+      {
+        "num": 61,
+        "den": 40
+      }
+    ]
+  }
+}

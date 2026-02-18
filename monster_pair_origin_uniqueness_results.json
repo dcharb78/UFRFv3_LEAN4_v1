@@ -1,0 +1,91 @@
+{
+  "theorem": "monster_pair_origin_uniqueness_protocol_v1",
+  "claim_subset": {
+    "source": "UFRF pairwise Frobenius values",
+    "target_triple": [
+      47,
+      59,
+      71
+    ]
+  },
+  "structural_checks": {
+    "pair_values": [
+      {
+        "a": 3,
+        "b": 5,
+        "frob": 7
+      },
+      {
+        "a": 3,
+        "b": 7,
+        "frob": 11
+      },
+      {
+        "a": 3,
+        "b": 11,
+        "frob": 19
+      },
+      {
+        "a": 3,
+        "b": 13,
+        "frob": 23
+      },
+      {
+        "a": 5,
+        "b": 7,
+        "frob": 23
+      },
+      {
+        "a": 5,
+        "b": 11,
+        "frob": 39
+      },
+      {
+        "a": 5,
+        "b": 13,
+        "frob": 47
+      },
+      {
+        "a": 7,
+        "b": 11,
+        "frob": 59
+      },
+      {
+        "a": 7,
+        "b": 13,
+        "frob": 71
+      },
+      {
+        "a": 11,
+        "b": 13,
+        "frob": 119
+      }
+    ],
+    "preimages": {
+      "47": [
+        [
+          5,
+          13
+        ]
+      ],
+      "59": [
+        [
+          7,
+          11
+        ]
+      ],
+      "71": [
+        [
+          7,
+          13
+        ]
+      ]
+    },
+    "unique_preimage_47": true,
+    "unique_preimage_59": true,
+    "unique_preimage_71": true,
+    "ap12_diff1": true,
+    "ap12_diff2": true,
+    "product_plus_one_is_196884": true
+  }
+}

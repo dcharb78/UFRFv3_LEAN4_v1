@@ -1,0 +1,119 @@
+{
+  "theorem": "phase_transition_144_scale_protocol_v1",
+  "claim_subset": {
+    "pressure_gpa": 144,
+    "temperatures_k": [
+      144,
+      1440,
+      14400
+    ],
+    "base_scale": 144
+  },
+  "structural_checks": {
+    "pressure_equals_base": true,
+    "all_temps_match_144_times_10_pow_n": true,
+    "temperature_count": 3,
+    "temperature_ratios_are_10": [
+      10,
+      10
+    ],
+    "all_temperature_ratios_10": true,
+    "scale_ladder": [
+      144,
+      1440,
+      14400,
+      144000
+    ],
+    "mantissa_bridge_m_n_plus_2_eq_scale_n": true,
+    "seed_stair_4_to_14_add10": true,
+    "seed_stair_14_to_144_eq_14x10_plus4": true,
+    "seed_stair_144_to_144000_x1000": true
+  },
+  "mantissa_ladder_exact": [
+    {
+      "k": -1,
+      "numerator": 18,
+      "denominator": 125,
+      "decimal": 0.144
+    },
+    {
+      "k": 0,
+      "numerator": 36,
+      "denominator": 25,
+      "decimal": 1.44
+    },
+    {
+      "k": 1,
+      "numerator": 72,
+      "denominator": 5,
+      "decimal": 14.4
+    },
+    {
+      "k": 2,
+      "numerator": 144,
+      "denominator": 1,
+      "decimal": 144.0
+    },
+    {
+      "k": 3,
+      "numerator": 1440,
+      "denominator": 1,
+      "decimal": 1440.0
+    },
+    {
+      "k": 4,
+      "numerator": 14400,
+      "denominator": 1,
+      "decimal": 14400.0
+    },
+    {
+      "k": 5,
+      "numerator": 144000,
+      "denominator": 1,
+      "decimal": 144000.0
+    }
+  ],
+  "mantissa_to_scale_bridge": [
+    {
+      "n": 0,
+      "mantissa_k": 2,
+      "mantissa_value_num": 144,
+      "mantissa_value_den": 1,
+      "scale_value": 144,
+      "equal": true
+    },
+    {
+      "n": 1,
+      "mantissa_k": 3,
+      "mantissa_value_num": 1440,
+      "mantissa_value_den": 1,
+      "scale_value": 1440,
+      "equal": true
+    },
+    {
+      "n": 2,
+      "mantissa_k": 4,
+      "mantissa_value_num": 14400,
+      "mantissa_value_den": 1,
+      "scale_value": 14400,
+      "equal": true
+    },
+    {
+      "n": 3,
+      "mantissa_k": 5,
+      "mantissa_value_num": 144000,
+      "mantissa_value_den": 1,
+      "scale_value": 144000,
+      "equal": true
+    }
+  ],
+  "seed_stair": {
+    "values": [
+      4,
+      14,
+      144,
+      144000
+    ],
+    "interpretation_note": "Seed-to-scale staircase shown as arithmetic anchors; causal geometry is modeled separately."
+  }
+}

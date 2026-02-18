@@ -1,0 +1,23 @@
+{
+  "theorem": "dna_helix_rest_halfstep_protocol_v1",
+  "claim_subset": {
+    "rest_position": {
+      "num": 10,
+      "den": 1
+    },
+    "helical_turns": {
+      "num": 21,
+      "den": 2
+    },
+    "cycle_position": {
+      "num": 13,
+      "den": 1
+    }
+  },
+  "structural_checks": {
+    "turns_is_10_5": true,
+    "exactly_halfstep_past_rest": true,
+    "distance_to_cycle_end_is_2_5": true,
+    "ordering_rest_turns_cycle": true
+  }
+}

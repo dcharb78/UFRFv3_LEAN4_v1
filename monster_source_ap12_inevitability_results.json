@@ -1,0 +1,109 @@
+{
+  "theorem": "monster_source_ap12_inevitability_protocol_v1",
+  "claim_subset": {
+    "source": "UFRF pairwise Frobenius values",
+    "target_c1": 196884
+  },
+  "structural_checks": {
+    "pair_values": [
+      {
+        "a": 3,
+        "b": 5,
+        "frob": 7
+      },
+      {
+        "a": 3,
+        "b": 7,
+        "frob": 11
+      },
+      {
+        "a": 3,
+        "b": 11,
+        "frob": 19
+      },
+      {
+        "a": 3,
+        "b": 13,
+        "frob": 23
+      },
+      {
+        "a": 5,
+        "b": 7,
+        "frob": 23
+      },
+      {
+        "a": 5,
+        "b": 11,
+        "frob": 39
+      },
+      {
+        "a": 5,
+        "b": 13,
+        "frob": 47
+      },
+      {
+        "a": 7,
+        "b": 11,
+        "frob": 59
+      },
+      {
+        "a": 7,
+        "b": 13,
+        "frob": 71
+      },
+      {
+        "a": 11,
+        "b": 13,
+        "frob": 119
+      }
+    ],
+    "source_values": [
+      7,
+      11,
+      19,
+      23,
+      39,
+      47,
+      59,
+      71,
+      119
+    ],
+    "ap12_triples_from_source": [
+      [
+        47,
+        59,
+        71
+      ]
+    ],
+    "triples_with_product_plus_one_196884": [
+      [
+        47,
+        59,
+        71
+      ]
+    ],
+    "unique_ap12_triple_from_source": true,
+    "unique_c1_hit_from_source": true,
+    "preimages_47_59_71": {
+      "47": [
+        [
+          5,
+          13
+        ]
+      ],
+      "59": [
+        [
+          7,
+          11
+        ]
+      ],
+      "71": [
+        [
+          7,
+          13
+        ]
+      ]
+    },
+    "triple_values_have_unique_pair_origins": true
+  }
+}

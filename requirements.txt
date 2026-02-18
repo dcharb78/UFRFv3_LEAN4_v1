@@ -1,0 +1,7 @@
+# Python dependencies for the verification/analysis scripts in this repo.
+matplotlib==3.9.4
+numpy==2.0.2
+scikit-learn==1.6.1
+scipy==1.13.1
+sympy==1.14.0
+pypdf==6.7.0

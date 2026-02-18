@@ -1,0 +1,21 @@
+{
+  "theorem": "neural_oscillation_13x_protocol_v1",
+  "claim_subset": {
+    "frequencies_hz": [
+      13,
+      26,
+      39
+    ]
+  },
+  "structural_checks": {
+    "count": 3,
+    "all_multiples_of_13": true,
+    "ratio_to_13": [
+      1,
+      2,
+      3
+    ],
+    "is_13_2x13_3x13": true,
+    "constant_step_13": true
+  }
+}

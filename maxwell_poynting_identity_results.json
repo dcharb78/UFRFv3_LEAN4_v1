@@ -1,0 +1,66 @@
+{
+  "checks": [
+    {
+      "B": [
+        4,
+        5,
+        6
+      ],
+      "E": [
+        1,
+        2,
+        3
+      ],
+      "I1": -63,
+      "I2": 32,
+      "lagrange_ok": true,
+      "lhs_norm2_cross": 54,
+      "name": "generic",
+      "rhs_norm2_formula": 54
+    },
+    {
+      "B": [
+        0,
+        1,
+        0
+      ],
+      "E": [
+        1,
+        0,
+        0
+      ],
+      "I1": 0,
+      "I2": 0,
+      "lagrange_ok": true,
+      "lhs_norm2_cross": 1,
+      "name": "null_plane_wave",
+      "rhs_norm2_formula": 1
+    },
+    {
+      "B": [
+        -4,
+        3,
+        0
+      ],
+      "E": [
+        3,
+        4,
+        0
+      ],
+      "I1": 0,
+      "I2": 0,
+      "lagrange_ok": true,
+      "lhs_norm2_cross": 625,
+      "name": "orth_equal",
+      "rhs_norm2_formula": 625
+    }
+  ],
+  "identity": "|E\u00d7B|^2 = |E|^2|B|^2 - (E\u00b7B)^2",
+  "invariants": {
+    "I1": "|E|^2-|B|^2 (c=1)",
+    "I2": "E\u00b7B"
+  },
+  "null_example_ok": true,
+  "ok": true,
+  "theorem": "maxwell_poynting_identity_protocol_v1"
+}

@@ -1,0 +1,42 @@
+{
+  "theorem": "shell_gap_projection_protocol_v1",
+  "claim_subset": {
+    "intrinsic_series": [
+      {
+        "num": 5,
+        "den": 2
+      },
+      {
+        "num": 11,
+        "den": 2
+      },
+      {
+        "num": 17,
+        "den": 2
+      },
+      {
+        "num": 23,
+        "den": 2
+      },
+      {
+        "num": 29,
+        "den": 2
+      }
+    ],
+    "projection_shift": {
+      "num": 1,
+      "den": 2
+    }
+  },
+  "structural_checks": {
+    "count": 5,
+    "constant_step_3": true,
+    "next_intrinsic_is_14_5": true,
+    "projected_is_14_0": true
+  },
+  "projected_value": {
+    "numerator": 14,
+    "denominator": 1,
+    "decimal": 14.0
+  }
+}

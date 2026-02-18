@@ -1,0 +1,116 @@
+{
+  "global": {
+    "asymmetry_confirmed_all": true,
+    "complement_has_no_carry_coupling_all": true,
+    "complement_is_digit_local_all": true,
+    "neg_is_carry_coupled_all": true
+  },
+  "levels": [
+    {
+      "asymmetry_confirmed": true,
+      "complement_coupled_groups_by_pos": {
+        "1": 0
+      },
+      "complement_digit_local": true,
+      "complement_has_carry_coupling": false,
+      "k": 2,
+      "modulus": 169,
+      "neg_coupled_groups_by_pos": {
+        "1": 13
+      },
+      "neg_has_carry_coupling": true,
+      "total_states": 169,
+      "witness_same_high_diff_low": {
+        "comp0": [
+          12,
+          7
+        ],
+        "comp1": [
+          11,
+          7
+        ],
+        "comp_high_same": true,
+        "inp0": [
+          0,
+          5
+        ],
+        "inp1": [
+          1,
+          5
+        ],
+        "n0": 65,
+        "n1": 66,
+        "neg0": [
+          0,
+          8
+        ],
+        "neg1": [
+          12,
+          7
+        ],
+        "neg_high_same": false
+      }
+    },
+    {
+      "asymmetry_confirmed": true,
+      "complement_coupled_groups_by_pos": {
+        "1": 0,
+        "2": 0
+      },
+      "complement_digit_local": true,
+      "complement_has_carry_coupling": false,
+      "k": 3,
+      "modulus": 2197,
+      "neg_coupled_groups_by_pos": {
+        "1": 169,
+        "2": 13
+      },
+      "neg_has_carry_coupling": true,
+      "total_states": 2197,
+      "witness_same_high_diff_low": {
+        "comp0": [
+          12,
+          7,
+          5
+        ],
+        "comp1": [
+          11,
+          7,
+          5
+        ],
+        "comp_high_same": true,
+        "inp0": [
+          0,
+          5,
+          7
+        ],
+        "inp1": [
+          1,
+          5,
+          7
+        ],
+        "n0": 1248,
+        "n1": 1249,
+        "neg0": [
+          0,
+          8,
+          5
+        ],
+        "neg1": [
+          12,
+          7,
+          5
+        ],
+        "neg_high_same": false
+      }
+    }
+  ],
+  "params": {
+    "base": 13,
+    "levels": [
+      2,
+      3
+    ]
+  },
+  "theorem": "prism_complement_vs_inverse_protocol_v1"
+}

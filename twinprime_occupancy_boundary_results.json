@@ -1,0 +1,29 @@
+{
+  "modulus": 1001,
+  "capacity": 495,
+  "allowed_count_scan_0_1000": 495,
+  "forbidden_count_scan_0_1000": 506,
+  "partition_ok": true,
+  "allowed_first10": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    8,
+    10,
+    15,
+    16,
+    17
+  ],
+  "allowed_subset_range_end_exclusive": 123,
+  "allowed_subset_count": 60,
+  "allowed_subset_all_admissible": true,
+  "allowed_subset_occupied_classes": 60,
+  "allowed_subset_within_capacity": true,
+  "full_allowed_occupied_classes": 495,
+  "full_allowed_hits_capacity": true,
+  "forbidden_occupied_classes": 506,
+  "forbidden_exceeds_capacity_without_guard": true,
+  "forbidden_all_admissible": false
+}

@@ -1,0 +1,78 @@
+{
+  "theorem": "projection_versions_reduction_protocol_v1",
+  "claim_subset": {
+    "v2": "k = sum_i term_i",
+    "v3": "tensor offdiag=0 and diag=k",
+    "v1_axiswise": "x -> x + k*x"
+  },
+  "structural_checks": {
+    "terms": [
+      46,
+      102
+    ],
+    "k_total": 148,
+    "offdiag_zero_assumption": true,
+    "diag_equal_assumption": true,
+    "v1_eq_v2_axiswise": true,
+    "v2_eq_v3_axiswise": true,
+    "v1_eq_v3_axiswise": true
+  },
+  "derived_values": {
+    "ostar": [
+      {
+        "num": 1,
+        "den": 1
+      },
+      {
+        "num": 2,
+        "den": 1
+      },
+      {
+        "num": 3,
+        "den": 1
+      }
+    ],
+    "v1": [
+      {
+        "num": 149,
+        "den": 1
+      },
+      {
+        "num": 298,
+        "den": 1
+      },
+      {
+        "num": 447,
+        "den": 1
+      }
+    ],
+    "v2": [
+      {
+        "num": 149,
+        "den": 1
+      },
+      {
+        "num": 298,
+        "den": 1
+      },
+      {
+        "num": 447,
+        "den": 1
+      }
+    ],
+    "v3": [
+      {
+        "num": 149,
+        "den": 1
+      },
+      {
+        "num": 298,
+        "den": 1
+      },
+      {
+        "num": 447,
+        "den": 1
+      }
+    ]
+  }
+}

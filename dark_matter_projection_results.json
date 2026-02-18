@@ -1,0 +1,22 @@
+{
+  "theorem": "dark_matter_projection_protocol_v1",
+  "claim_subset": {
+    "observer_scale": "10^28",
+    "reference_scale": "10^5",
+    "projection_distance_symbol": "d_M"
+  },
+  "structural_checks": {
+    "gap_is_23": true,
+    "ratio_is_10_pow_23": true,
+    "ratio_from_scales_matches": true,
+    "log_forms_match_eps_1e_12": true,
+    "dm_close_to_53_within_0_1": true
+  },
+  "derived_values": {
+    "gap_exp": 23,
+    "ratio_int": 100000000000000000000000,
+    "d_m_log_ratio": 52.95945713886305,
+    "d_m_gap_form": 52.95945713886306,
+    "distance_to_53": 0.040542861136948716
+  }
+}

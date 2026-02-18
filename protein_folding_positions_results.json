@@ -1,0 +1,43 @@
+{
+  "theorem": "protein_folding_positions_protocol_v1",
+  "claim_subset": {
+    "positions": [
+      "3.6",
+      "7.2",
+      "10.5"
+    ],
+    "exact_rationals": [
+      "18/5",
+      "36/5",
+      "21/2"
+    ]
+  },
+  "structural_checks": {
+    "count": 3,
+    "ordered": true,
+    "second_is_double_first": true,
+    "third_is_10p5": true,
+    "third_minus_rest_is_half": true,
+    "all_inside_cycle_13": true
+  },
+  "table": [
+    {
+      "index": 1,
+      "numerator": 18,
+      "denominator": 5,
+      "decimal": 3.6
+    },
+    {
+      "index": 2,
+      "numerator": 36,
+      "denominator": 5,
+      "decimal": 7.2
+    },
+    {
+      "index": 3,
+      "numerator": 21,
+      "denominator": 2,
+      "decimal": 10.5
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "theorem": "sigma1_pattern",
+  "monster_generators": [
+    47,
+    59,
+    71
+  ],
+  "sigma1": 177,
+  "middle_generator": 59,
+  "verification": {
+    "sigma1_equals_3_times_middle": true,
+    "middle_equals_sigma1_div_3": true
+  },
+  "positions_mod_13": {
+    "47": 8,
+    "59": 7,
+    "71": 6
+  },
+  "arithmetic_progression": {
+    "difference": 12,
+    "is_ap": true
+  }
+}

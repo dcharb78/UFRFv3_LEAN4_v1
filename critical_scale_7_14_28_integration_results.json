@@ -1,0 +1,36 @@
+{
+  "theorem": "critical_scale_7_14_28_integration_protocol_v1",
+  "claim_subset": {
+    "shell_projected_anchor": 14,
+    "anomaly_anchor": 28,
+    "network_gap_anchor": 7
+  },
+  "structural_checks": {
+    "shell_projected_is_14": true,
+    "anomaly_is_2_times_14": true,
+    "network_gap_is_7": true,
+    "shell_projected_is_2_times_network_gap": true,
+    "anomaly_is_4_times_network_gap": true,
+    "ratio_network_shell_anomaly": [
+      7,
+      14,
+      28
+    ]
+  },
+  "derived_values": {
+    "shell_intrinsic_last": {
+      "num": 29,
+      "den": 2
+    },
+    "shell_shift": {
+      "num": 1,
+      "den": 2
+    },
+    "shell_projected": {
+      "num": 14,
+      "den": 1
+    },
+    "network_gap": 7,
+    "anomaly": 28
+  }
+}

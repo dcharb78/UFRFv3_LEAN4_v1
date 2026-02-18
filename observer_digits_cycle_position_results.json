@@ -1,0 +1,36 @@
+{
+  "base": 10,
+  "cycle_modulus": 13,
+  "sample_size": 200,
+  "depths": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "shift_table_pow10_mod13": [
+    1,
+    10,
+    9,
+    12,
+    3,
+    4,
+    1
+  ],
+  "plus_digit_shift_all_holds": true,
+  "plus_cycle_shift_all_holds": true,
+  "lower_digit_stability_all_holds": true,
+  "cycle_tick10_6_return_all_holds": true,
+  "expected_shift_table": [
+    1,
+    10,
+    9,
+    12,
+    3,
+    4,
+    1
+  ]
+}

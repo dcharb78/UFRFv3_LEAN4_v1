@@ -1,0 +1,56 @@
+{
+  "theorem": "moonshine_inevitability_chain_protocol_v1",
+  "claim_subset": {
+    "frobenius_pairs": [
+      [
+        5,
+        13
+      ],
+      [
+        7,
+        11
+      ],
+      [
+        7,
+        13
+      ]
+    ],
+    "monster_triple": [
+      47,
+      59,
+      71
+    ],
+    "j_anchor": "c1 = product(monster)+1",
+    "denominator_ladder": [
+      13,
+      169,
+      2197
+    ]
+  },
+  "structural_checks": {
+    "frobenius_5_13_eq_47": true,
+    "frobenius_7_11_eq_59": true,
+    "frobenius_7_13_eq_71": true,
+    "ap12_diff1_eq_12": true,
+    "ap12_diff2_eq_12": true,
+    "c1_equals_product_plus_one": true,
+    "sigma1_eq_177": true,
+    "c2_num_eq_13_times_c2": true,
+    "c3_num_eq_169_times_c3": true,
+    "c4_num_eq_2197_times_c4": true
+  },
+  "derived_values": {
+    "monster_triple": [
+      47,
+      59,
+      71
+    ],
+    "product": 196883,
+    "e1": 177,
+    "e2": 10299,
+    "e3": 196883,
+    "c2_num": 279418880,
+    "c3_num": 146066694930,
+    "c4_num": 44480146194432
+  }
+}

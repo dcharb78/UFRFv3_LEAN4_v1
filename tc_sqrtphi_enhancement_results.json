@@ -1,0 +1,53 @@
+{
+  "theorem": "tc_sqrtphi_enhancement_protocol_v1",
+  "claim_subset": {
+    "formula": "Tc_optimal = Tc_base * 1.272",
+    "enhancement_ratio_num": 159,
+    "enhancement_ratio_den": 125
+  },
+  "structural_checks": {
+    "count": 6,
+    "all_scaled_by_same_ratio": true,
+    "all_enhanced_above_base": true,
+    "anchor_125_to_159": true,
+    "anchor_250_to_318": true
+  },
+  "table": [
+    {
+      "tc_base": 50,
+      "tc_opt_num": 318,
+      "tc_opt_den": 5,
+      "tc_opt_decimal": 63.6
+    },
+    {
+      "tc_base": 100,
+      "tc_opt_num": 636,
+      "tc_opt_den": 5,
+      "tc_opt_decimal": 127.2
+    },
+    {
+      "tc_base": 125,
+      "tc_opt_num": 159,
+      "tc_opt_den": 1,
+      "tc_opt_decimal": 159.0
+    },
+    {
+      "tc_base": 200,
+      "tc_opt_num": 1272,
+      "tc_opt_den": 5,
+      "tc_opt_decimal": 254.4
+    },
+    {
+      "tc_base": 250,
+      "tc_opt_num": 318,
+      "tc_opt_den": 1,
+      "tc_opt_decimal": 318.0
+    },
+    {
+      "tc_base": 300,
+      "tc_opt_num": 1908,
+      "tc_opt_den": 5,
+      "tc_opt_decimal": 381.6
+    }
+  ]
+}

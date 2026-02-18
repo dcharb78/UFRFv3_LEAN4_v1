@@ -1,0 +1,22 @@
+{
+  "checked_cases": 1048576,
+  "conjugation_identity_ok": true,
+  "edge_patterns": 4,
+  "elem_order": [
+    "I",
+    "-I",
+    "qi",
+    "-qi",
+    "qj",
+    "-qj",
+    "qk",
+    "-qk"
+  ],
+  "gauge_assignments": 262144,
+  "loop_length": 6,
+  "note": "Finite protocol exercise; Lean theorem proves a general list-based cancellation lemma.",
+  "observable": "tr2(U_loop') = tr2(U_loop) for closed loops",
+  "ok": true,
+  "theorem": "q8_wilson_loop_gauge_invariance_protocol_v1",
+  "trace_invariant_ok": true
+}

@@ -1,0 +1,115 @@
+{
+  "total_warnings": 217,
+  "files_with_warnings": 45,
+  "category_counts": {
+    "simp_over_simpa": 130,
+    "unused_simp_arg": 71,
+    "simp_at_instead_of_simpa_using": 7,
+    "unused_variable": 1,
+    "unnecessary_seq_focus": 2,
+    "other": 3,
+    "dead_tactic": 3
+  },
+  "top_files": [
+    [
+      "lean/Exact_Cancellation_Product_Theorem.lean",
+      16
+    ],
+    [
+      "lean/Diminished_Chord_ZMod12_Theorem.lean",
+      15
+    ],
+    [
+      "lean/Recursive_Grid_Generic_Base_Theorem.lean",
+      14
+    ],
+    [
+      "lean/Recursive_Grid_Base13_Theorem.lean",
+      13
+    ],
+    [
+      "lean/Multidimensional_Ticks_Theorem.lean",
+      13
+    ],
+    [
+      "lean/Decimal_Mod13_Concurrency_Theorem.lean",
+      9
+    ],
+    [
+      "lean/Tn_Truncated_Engine.lean",
+      8
+    ],
+    [
+      "lean/Recursive_Grid_Base10_Theorem.lean",
+      8
+    ],
+    [
+      "lean/REST_Seam_Overlap_Theorem.lean",
+      8
+    ],
+    [
+      "lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean",
+      8
+    ],
+    [
+      "lean/Recursive_Grid_CarryCascade_Theorem.lean",
+      7
+    ],
+    [
+      "lean/Tn_Exact_Definition.lean",
+      7
+    ],
+    [
+      "lean/Recursive_Grid_BlockPeriodicity_Theorem.lean",
+      7
+    ],
+    [
+      "lean/Seam_Generic_API_Theorem.lean",
+      6
+    ],
+    [
+      "lean/REST_Seam_Transport_Core_Theorem.lean",
+      6
+    ],
+    [
+      "lean/UFRF_Global_Gap_Theorem.lean",
+      6
+    ],
+    [
+      "lean/REST_Seam_RecursiveGrid_Bridge_Theorem.lean",
+      5
+    ],
+    [
+      "lean/REST_Seam_Core_Theorem.lean",
+      4
+    ],
+    [
+      "lean/Semigroup_Concurrency_Theorem.lean",
+      4
+    ],
+    [
+      "lean/REST_Seam_AspectProjection_Bridge_Theorem.lean",
+      4
+    ],
+    [
+      "lean/Exact_Cancellation_Theorem.lean",
+      3
+    ],
+    [
+      "lean/Unity_Cube_Identities.lean",
+      3
+    ],
+    [
+      "lean/Decimal_Mod1001_Concurrency_Theorem.lean",
+      3
+    ],
+    [
+      "lean/Quarter_Cycle_ZMod_Theorem.lean",
+      3
+    ],
+    [
+      "lean/Moonshine_LogMod_Coordinates_Theorem.lean",
+      3
+    ]
+  ]
+}

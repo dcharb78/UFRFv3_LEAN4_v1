@@ -1,0 +1,12 @@
+{
+  "theorem": "anomaly_28k_protocol_v1",
+  "claim_subset": {
+    "temperature_k": 28
+  },
+  "structural_checks": {
+    "is_13_plus_15": true,
+    "is_2_times_14": true,
+    "offset_from_13": 15,
+    "offset_from_14": 14
+  }
+}

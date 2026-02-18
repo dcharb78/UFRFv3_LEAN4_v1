@@ -1,0 +1,16 @@
+{
+  "theorem": "network_137_threshold_protocol_v1",
+  "claim_subset": {
+    "threshold": 137,
+    "scale_anchor": 144
+  },
+  "structural_checks": {
+    "between_adjacent_13_multiples": true,
+    "lower_multiple": 130,
+    "upper_multiple": 143,
+    "distance_to_lower": 7,
+    "distance_to_upper": 6,
+    "distance_to_144": 7,
+    "threshold_is_prime": true
+  }
+}

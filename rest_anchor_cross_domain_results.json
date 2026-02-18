@@ -1,0 +1,52 @@
+{
+  "theorem": "rest_anchor_cross_domain_protocol_v1",
+  "claim_subset": {
+    "rest_index": 10,
+    "domains": [
+      "quantum_hall",
+      "acoustic",
+      "dna",
+      "protein"
+    ]
+  },
+  "structural_checks": {
+    "quantum_contains_10_over_13": true,
+    "acoustic_rest_frequency_num": 4320,
+    "acoustic_rest_frequency_den": 13,
+    "acoustic_rest_equals_432_times_10_over_13": true,
+    "acoustic_critical_contains_rest_index_10": true,
+    "dna_turns_num": 21,
+    "dna_turns_den": 2,
+    "dna_is_rest_plus_half": true,
+    "protein_contains_10_5": true,
+    "protein_third_is_10_5": true
+  },
+  "derived_values": {
+    "quantum_rest_fraction": {
+      "num": 10,
+      "den": 13
+    },
+    "acoustic_rest_frequency": {
+      "num": 4320,
+      "den": 13
+    },
+    "dna_turns": {
+      "num": 21,
+      "den": 2
+    },
+    "protein_positions": [
+      {
+        "num": 18,
+        "den": 5
+      },
+      {
+        "num": 36,
+        "den": 5
+      },
+      {
+        "num": 21,
+        "den": 2
+      }
+    ]
+  }
+}

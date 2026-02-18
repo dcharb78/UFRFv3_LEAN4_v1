@@ -1,0 +1,122 @@
+{
+  "global": {
+    "moduli": [
+      13,
+      169,
+      2197,
+      28561
+    ],
+    "order_equals_phi_all": true,
+    "order_minimality_all": true,
+    "order_witness_values": [
+      12,
+      156,
+      2028,
+      26364
+    ],
+    "phi_moduli": [
+      12,
+      156,
+      2028,
+      26364
+    ],
+    "primitive_root_witness_all": true,
+    "projection_compatibility_all": true,
+    "scale_by_13_from_level2": true
+  },
+  "levels": [
+    {
+      "k": 1,
+      "modulus": 13,
+      "order_equals_phi": true,
+      "order_minimality_counterexamples": [],
+      "order_minimality_holds": true,
+      "order_witness": 12,
+      "phi_modulus": 12,
+      "proper_divisor_count": 5
+    },
+    {
+      "k": 2,
+      "modulus": 169,
+      "order_equals_phi": true,
+      "order_minimality_counterexamples": [],
+      "order_minimality_holds": true,
+      "order_witness": 156,
+      "phi_modulus": 156,
+      "projection_check_count": 11,
+      "projection_compatibility": true,
+      "projection_exponents": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        11,
+        12,
+        13,
+        24,
+        156
+      ],
+      "proper_divisor_count": 11
+    },
+    {
+      "k": 3,
+      "modulus": 2197,
+      "order_equals_phi": true,
+      "order_minimality_counterexamples": [],
+      "order_minimality_holds": true,
+      "order_witness": 2028,
+      "phi_modulus": 2028,
+      "projection_check_count": 12,
+      "projection_compatibility": true,
+      "projection_exponents": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        11,
+        12,
+        13,
+        24,
+        156,
+        2028
+      ],
+      "proper_divisor_count": 17
+    },
+    {
+      "k": 4,
+      "modulus": 28561,
+      "order_equals_phi": true,
+      "order_minimality_counterexamples": [],
+      "order_minimality_holds": true,
+      "order_witness": 26364,
+      "phi_modulus": 26364,
+      "projection_check_count": 12,
+      "projection_compatibility": true,
+      "projection_exponents": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        11,
+        12,
+        13,
+        24,
+        2028,
+        26364
+      ],
+      "proper_divisor_count": 23
+    }
+  ],
+  "params": {
+    "base": 13,
+    "max_k": 4,
+    "witness": 2
+  },
+  "theorem": "prism_primitive_root_order_protocol_v1"
+}

@@ -1,0 +1,685 @@
+{
+  "global": {
+    "all_compatible_all_levels": true,
+    "moduli": [
+      169,
+      2197,
+      28561
+    ],
+    "op_compatible_all": {
+      "comp": true,
+      "neg": true,
+      "pred": true,
+      "succ": true
+    },
+    "op_fail_counts_by_level": {
+      "comp": [
+        0,
+        0,
+        0
+      ],
+      "neg": [
+        0,
+        0,
+        0
+      ],
+      "pred": [
+        0,
+        0,
+        0
+      ],
+      "succ": [
+        0,
+        0,
+        0
+      ]
+    },
+    "projection_moduli": [
+      13,
+      169,
+      2197
+    ],
+    "total_states_by_level": [
+      169,
+      2197,
+      28561
+    ]
+  },
+  "levels": [
+    {
+      "k": 2,
+      "modulus": 169,
+      "operations": {
+        "comp": {
+          "check_count": 169,
+          "compatible": true,
+          "fail_count": 0,
+          "first_counterexample": null,
+          "sample_points": [
+            0,
+            1,
+            12,
+            13,
+            168
+          ],
+          "samples": [
+            {
+              "agree": true,
+              "lhs": 12,
+              "rhs": 12,
+              "x": 0
+            },
+            {
+              "agree": true,
+              "lhs": 11,
+              "rhs": 11,
+              "x": 1
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 12
+            },
+            {
+              "agree": true,
+              "lhs": 12,
+              "rhs": 12,
+              "x": 13
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 168
+            }
+          ]
+        },
+        "neg": {
+          "check_count": 169,
+          "compatible": true,
+          "fail_count": 0,
+          "first_counterexample": null,
+          "sample_points": [
+            0,
+            1,
+            12,
+            13,
+            168
+          ],
+          "samples": [
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 0
+            },
+            {
+              "agree": true,
+              "lhs": 12,
+              "rhs": 12,
+              "x": 1
+            },
+            {
+              "agree": true,
+              "lhs": 1,
+              "rhs": 1,
+              "x": 12
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 13
+            },
+            {
+              "agree": true,
+              "lhs": 1,
+              "rhs": 1,
+              "x": 168
+            }
+          ]
+        },
+        "pred": {
+          "check_count": 169,
+          "compatible": true,
+          "fail_count": 0,
+          "first_counterexample": null,
+          "sample_points": [
+            0,
+            1,
+            12,
+            13,
+            168
+          ],
+          "samples": [
+            {
+              "agree": true,
+              "lhs": 12,
+              "rhs": 12,
+              "x": 0
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 1
+            },
+            {
+              "agree": true,
+              "lhs": 11,
+              "rhs": 11,
+              "x": 12
+            },
+            {
+              "agree": true,
+              "lhs": 12,
+              "rhs": 12,
+              "x": 13
+            },
+            {
+              "agree": true,
+              "lhs": 11,
+              "rhs": 11,
+              "x": 168
+            }
+          ]
+        },
+        "succ": {
+          "check_count": 169,
+          "compatible": true,
+          "fail_count": 0,
+          "first_counterexample": null,
+          "sample_points": [
+            0,
+            1,
+            12,
+            13,
+            168
+          ],
+          "samples": [
+            {
+              "agree": true,
+              "lhs": 1,
+              "rhs": 1,
+              "x": 0
+            },
+            {
+              "agree": true,
+              "lhs": 2,
+              "rhs": 2,
+              "x": 1
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 12
+            },
+            {
+              "agree": true,
+              "lhs": 1,
+              "rhs": 1,
+              "x": 13
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 168
+            }
+          ]
+        }
+      },
+      "projection_modulus": 13,
+      "total_states": 169
+    },
+    {
+      "k": 3,
+      "modulus": 2197,
+      "operations": {
+        "comp": {
+          "check_count": 2197,
+          "compatible": true,
+          "fail_count": 0,
+          "first_counterexample": null,
+          "sample_points": [
+            0,
+            1,
+            12,
+            13,
+            168,
+            2196
+          ],
+          "samples": [
+            {
+              "agree": true,
+              "lhs": 168,
+              "rhs": 168,
+              "x": 0
+            },
+            {
+              "agree": true,
+              "lhs": 167,
+              "rhs": 167,
+              "x": 1
+            },
+            {
+              "agree": true,
+              "lhs": 156,
+              "rhs": 156,
+              "x": 12
+            },
+            {
+              "agree": true,
+              "lhs": 155,
+              "rhs": 155,
+              "x": 13
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 168
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 2196
+            }
+          ]
+        },
+        "neg": {
+          "check_count": 2197,
+          "compatible": true,
+          "fail_count": 0,
+          "first_counterexample": null,
+          "sample_points": [
+            0,
+            1,
+            12,
+            13,
+            168,
+            2196
+          ],
+          "samples": [
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 0
+            },
+            {
+              "agree": true,
+              "lhs": 168,
+              "rhs": 168,
+              "x": 1
+            },
+            {
+              "agree": true,
+              "lhs": 157,
+              "rhs": 157,
+              "x": 12
+            },
+            {
+              "agree": true,
+              "lhs": 156,
+              "rhs": 156,
+              "x": 13
+            },
+            {
+              "agree": true,
+              "lhs": 1,
+              "rhs": 1,
+              "x": 168
+            },
+            {
+              "agree": true,
+              "lhs": 1,
+              "rhs": 1,
+              "x": 2196
+            }
+          ]
+        },
+        "pred": {
+          "check_count": 2197,
+          "compatible": true,
+          "fail_count": 0,
+          "first_counterexample": null,
+          "sample_points": [
+            0,
+            1,
+            12,
+            13,
+            168,
+            2196
+          ],
+          "samples": [
+            {
+              "agree": true,
+              "lhs": 168,
+              "rhs": 168,
+              "x": 0
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 1
+            },
+            {
+              "agree": true,
+              "lhs": 11,
+              "rhs": 11,
+              "x": 12
+            },
+            {
+              "agree": true,
+              "lhs": 12,
+              "rhs": 12,
+              "x": 13
+            },
+            {
+              "agree": true,
+              "lhs": 167,
+              "rhs": 167,
+              "x": 168
+            },
+            {
+              "agree": true,
+              "lhs": 167,
+              "rhs": 167,
+              "x": 2196
+            }
+          ]
+        },
+        "succ": {
+          "check_count": 2197,
+          "compatible": true,
+          "fail_count": 0,
+          "first_counterexample": null,
+          "sample_points": [
+            0,
+            1,
+            12,
+            13,
+            168,
+            2196
+          ],
+          "samples": [
+            {
+              "agree": true,
+              "lhs": 1,
+              "rhs": 1,
+              "x": 0
+            },
+            {
+              "agree": true,
+              "lhs": 2,
+              "rhs": 2,
+              "x": 1
+            },
+            {
+              "agree": true,
+              "lhs": 13,
+              "rhs": 13,
+              "x": 12
+            },
+            {
+              "agree": true,
+              "lhs": 14,
+              "rhs": 14,
+              "x": 13
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 168
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 2196
+            }
+          ]
+        }
+      },
+      "projection_modulus": 169,
+      "total_states": 2197
+    },
+    {
+      "k": 4,
+      "modulus": 28561,
+      "operations": {
+        "comp": {
+          "check_count": 28561,
+          "compatible": true,
+          "fail_count": 0,
+          "first_counterexample": null,
+          "sample_points": [
+            0,
+            1,
+            12,
+            13,
+            2196,
+            28560
+          ],
+          "samples": [
+            {
+              "agree": true,
+              "lhs": 2196,
+              "rhs": 2196,
+              "x": 0
+            },
+            {
+              "agree": true,
+              "lhs": 2195,
+              "rhs": 2195,
+              "x": 1
+            },
+            {
+              "agree": true,
+              "lhs": 2184,
+              "rhs": 2184,
+              "x": 12
+            },
+            {
+              "agree": true,
+              "lhs": 2183,
+              "rhs": 2183,
+              "x": 13
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 2196
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 28560
+            }
+          ]
+        },
+        "neg": {
+          "check_count": 28561,
+          "compatible": true,
+          "fail_count": 0,
+          "first_counterexample": null,
+          "sample_points": [
+            0,
+            1,
+            12,
+            13,
+            2196,
+            28560
+          ],
+          "samples": [
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 0
+            },
+            {
+              "agree": true,
+              "lhs": 2196,
+              "rhs": 2196,
+              "x": 1
+            },
+            {
+              "agree": true,
+              "lhs": 2185,
+              "rhs": 2185,
+              "x": 12
+            },
+            {
+              "agree": true,
+              "lhs": 2184,
+              "rhs": 2184,
+              "x": 13
+            },
+            {
+              "agree": true,
+              "lhs": 1,
+              "rhs": 1,
+              "x": 2196
+            },
+            {
+              "agree": true,
+              "lhs": 1,
+              "rhs": 1,
+              "x": 28560
+            }
+          ]
+        },
+        "pred": {
+          "check_count": 28561,
+          "compatible": true,
+          "fail_count": 0,
+          "first_counterexample": null,
+          "sample_points": [
+            0,
+            1,
+            12,
+            13,
+            2196,
+            28560
+          ],
+          "samples": [
+            {
+              "agree": true,
+              "lhs": 2196,
+              "rhs": 2196,
+              "x": 0
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 1
+            },
+            {
+              "agree": true,
+              "lhs": 11,
+              "rhs": 11,
+              "x": 12
+            },
+            {
+              "agree": true,
+              "lhs": 12,
+              "rhs": 12,
+              "x": 13
+            },
+            {
+              "agree": true,
+              "lhs": 2195,
+              "rhs": 2195,
+              "x": 2196
+            },
+            {
+              "agree": true,
+              "lhs": 2195,
+              "rhs": 2195,
+              "x": 28560
+            }
+          ]
+        },
+        "succ": {
+          "check_count": 28561,
+          "compatible": true,
+          "fail_count": 0,
+          "first_counterexample": null,
+          "sample_points": [
+            0,
+            1,
+            12,
+            13,
+            2196,
+            28560
+          ],
+          "samples": [
+            {
+              "agree": true,
+              "lhs": 1,
+              "rhs": 1,
+              "x": 0
+            },
+            {
+              "agree": true,
+              "lhs": 2,
+              "rhs": 2,
+              "x": 1
+            },
+            {
+              "agree": true,
+              "lhs": 13,
+              "rhs": 13,
+              "x": 12
+            },
+            {
+              "agree": true,
+              "lhs": 14,
+              "rhs": 14,
+              "x": 13
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 2196
+            },
+            {
+              "agree": true,
+              "lhs": 0,
+              "rhs": 0,
+              "x": 28560
+            }
+          ]
+        }
+      },
+      "projection_modulus": 2197,
+      "total_states": 28561
+    }
+  ],
+  "params": {
+    "base": 13,
+    "levels": [
+      2,
+      3,
+      4
+    ],
+    "operations": [
+      "succ",
+      "pred",
+      "neg",
+      "comp"
+    ]
+  },
+  "theorem": "prism_projection_compatibility_protocol_v1"
+}

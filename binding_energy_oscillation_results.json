@@ -1,0 +1,20 @@
+{
+  "theorem": "binding_energy_oscillation_protocol_v1",
+  "claim_subset": {
+    "formula": "A0 * sin(2*pi*A/13) * exp(-A/100)",
+    "phase_denominator": 13,
+    "window_A_min": 1,
+    "window_A_max": 26
+  },
+  "structural_checks": {
+    "phase_shift_is_one_cycle": true,
+    "sine_periodic_under_plus13_eps_1e_12": true,
+    "damping_ratio_constant_under_plus13_eps_1e_12": true
+  },
+  "derived_values": {
+    "phase_at_A1": "1/13",
+    "phase_at_A13": "1",
+    "phase_at_A26": "2",
+    "damping_ratio_exp_minus_13_over_100": 0.8780954309205613
+  }
+}

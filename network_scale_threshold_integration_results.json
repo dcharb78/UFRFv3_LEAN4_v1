@@ -1,0 +1,27 @@
+{
+  "theorem": "network_scale_threshold_integration_protocol_v1",
+  "claim_subset": {
+    "optima_nodes": [
+      13,
+      144,
+      1728
+    ],
+    "threshold": 137
+  },
+  "structural_checks": {
+    "thirteen_eq_12_plus_1": true,
+    "onefortyfour_eq_12_sq": true,
+    "oneseventwentyeight_eq_12_cu": true,
+    "cube_eq_12_times_square": true,
+    "threshold_eq_13_times_10_plus_7": true,
+    "threshold_is_7_below_144": true,
+    "ordered": true,
+    "nearest_optimum_to_threshold": true,
+    "nearest_distance": 7,
+    "distance_map": {
+      "13": 124,
+      "144": 7,
+      "1728": 1591
+    }
+  }
+}

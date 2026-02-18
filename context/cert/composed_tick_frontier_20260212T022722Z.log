@@ -1,0 +1,898 @@
+⚠ [7587/7607] Replayed CycleStep_Orbit_Theorem
+warning: lean/CycleStep_Orbit_Theorem.lean:191:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7590/7607] Replayed CycleStep_Orbit_NAxes_Theorem
+warning: lean/CycleStep_Orbit_NAxes_Theorem.lean:61:79: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [lcmList, ih hxs, List.prod_cons, Nat.Coprime.lcm_eq_mul hcop_prod,̵ ̵N̵a̵t̵.̵m̵u̵l̵_̵a̵s̵s̵o̵c̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [7591/7607] Replayed Observer_Tick_Axis_Family_Theorem
+warning: lean/Observer_Tick_Axis_Family_Theorem.lean:94:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7592/7607] Replayed NodeClosure_Singleton_Generic_Theorem
+warning: lean/NodeClosure_Singleton_Generic_Theorem.lean:29:28: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7594/7607] Replayed REST_Seam_Core_Theorem
+warning: lean/REST_Seam_Core_Theorem.lean:45:29: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [birth, Nat.succ_mul, N̵a̵t̵.̵a̵d̵d̵_̵a̵s̵s̵o̵c̵,̵ ̵Nat.add_comm, Nat.add_left_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_Core_Theorem.lean:45:58: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [birth, Nat.succ_mul, Nat.add_assoc, Nat.add_comm,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_Core_Theorem.lean:49:36: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [seamTick, rest, birth_succ, Nat.add_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm, Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_Core_Theorem.lean:49:51: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [seamTick, rest, birth_succ, Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [7595/7607] Replayed Seam_Generic_API_Theorem
+warning: lean/Seam_Generic_API_Theorem.lean:34:39: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [seamTick, birth, Nat.succ_mul, Nat.add_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm, Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Seam_Generic_API_Theorem.lean:34:54: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [seamTick, birth, Nat.succ_mul, Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Seam_Generic_API_Theorem.lean:51:10: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Seam_Generic_API_Theorem.lean:49:50: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [state, seamTick, Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Seam_Generic_API_Theorem.lean:61:10: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Seam_Generic_API_Theorem.lean:75:10: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7600/7607] Replayed Decimal_Mod13_Concurrency_Theorem
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:52:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:54:12: This simp argument is unused:
+  ten_pow_three_add_one_mod13
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵t̵e̵n̵_̵p̵o̵w̵_̵t̵h̵r̵e̵e̵_̵a̵d̵d̵_̵o̵n̵e̵_̵m̵o̵d̵1̵3̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:64:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:68:12: This simp argument is unused:
+  ten_pow_six_mod13
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵t̵e̵n̵_̵p̵o̵w̵_̵s̵i̵x̵_̵m̵o̵d̵1̵3̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:76:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:82:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:78:12: This simp argument is unused:
+  ten_pow_six_mod13
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵t̵e̵n̵_̵p̵o̵w̵_̵s̵i̵x̵_̵m̵o̵d̵1̵3̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:88:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:94:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7601/7607] Replayed Multidimensional_Ticks_Theorem
+warning: lean/Multidimensional_Ticks_Theorem.lean:32:29: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [tick10, Nat.pow_add, N̵a̵t̵.̵m̵u̵l̵_̵a̵s̵s̵o̵c̵,̵ ̵Nat.mul_left_comm, Nat.mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:47:29: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [tick10, Nat.mul_mod, N̵a̵t̵.̵m̵u̵l̵_̵a̵s̵s̵o̵c̵,̵ ̵Nat.mul_left_comm, Nat.mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:47:44: This simp argument is unused:
+  Nat.mul_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [tick10, Nat.mul_mod, Nat.mul_assoc, N̵a̵t̵.̵m̵u̵l̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:47:63: This simp argument is unused:
+  Nat.mul_comm
+
+Hint: Omit it from the simp argument list.
+  simp [tick10, Nat.mul_mod, Nat.mul_assoc, Nat.mul_left_comm,̵ ̵N̵a̵t̵.̵m̵u̵l̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:56:20: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:128:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:135:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:380:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:436:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:508:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:516:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:685:23: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:693:23: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [7604/7607] Replayed REST_Seam_AspectProjection_Bridge_Theorem
+warning: lean/REST_Seam_AspectProjection_Bridge_Theorem.lean:27:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_AspectProjection_Bridge_Theorem.lean:65:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_AspectProjection_Bridge_Theorem.lean:104:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_AspectProjection_Bridge_Theorem.lean:144:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7605/7607] Replayed REST_Seam_SystemCoordMixed_Bridge_Theorem
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:31:49: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm, Nat.add_comm,
+  ̵  ̵ ̵ ̵Nat.mul_assoc,
+  ̲  ̲ ̲ ̲Nat.mul_left_comm, Nat.mul_comm, hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:31:64: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm, Nat.mul_assoc,
+  ̲  ̲ ̲ ̲Nat.mul_left_comm, Nat.mul_comm, hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:32:4: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_assoc, Nat.add_left_comm, Nat.add_comm,
+      Nat.mul_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵m̵u̵l_̵l̵eft_comm, Nat.mul_comm, hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:32:19: This simp argument is unused:
+  Nat.mul_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_assoc, Nat.add_left_comm, Nat.add_comm,
+      Nat.mul_assoc, Nat.mul_l̵e̵f̵t̵_̵comm, N̵a̵t̵.̵m̵u̵l̵_̵c̵o̵m̵m̵,̵ ̵hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:32:38: This simp argument is unused:
+  Nat.mul_comm
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_assoc, Nat.add_left_comm, Nat.add_comm,
+      Nat.mul_assoc, Nat.mul_left_comm, N̵a̵t̵.̵m̵u̵l̵_̵c̵o̵m̵m̵,̵ ̵hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:43:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:59:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:76:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7606/7607] Replayed REST_Seam_Unified_Interface_Theorem
+warning: lean/REST_Seam_Unified_Interface_Theorem.lean:81:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Unified_Interface_Theorem.lean:136:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Unified_Interface_Theorem.lean:258:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+✖ [7607/7607] Building Composed_Tick_API_Theorem (26s)
+trace: .> LEAN_PATH=/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/Cli/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/batteries/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/Qq/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/aesop/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/proofwidgets/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/importGraph/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/plausible/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/mathlib/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/build/lib/lean /Users/dcharb/.elan/toolchains/leanprover--lean4---v4.26.0-rc2/bin/lean /Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/lean/Composed_Tick_API_Theorem.lean -o /Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/build/lib/lean/Composed_Tick_API_Theorem.olean -i /Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/build/lib/lean/Composed_Tick_API_Theorem.ilean -c /Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/build/ir/Composed_Tick_API_Theorem.c --setup /Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/build/ir/Composed_Tick_API_Theorem.setup.json --json
+warning: lean/Composed_Tick_API_Theorem.lean:125:21: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: lean/Composed_Tick_API_Theorem.lean:145:21: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: lean/Composed_Tick_API_Theorem.lean:148:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:148:51: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:148:63: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:148:75: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:148:51: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:148:63: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:148:75: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:154:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:154:46: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:154:58: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:154:46: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:154:58: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:160:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:160:48: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:160:48: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:166:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:166:51: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:166:63: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:166:75: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:166:51: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:166:63: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:166:75: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:172:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:172:46: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:172:58: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:172:46: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:172:58: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:178:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:178:50: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:178:62: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:178:74: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:178:50: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:178:62: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:178:74: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:184:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:184:45: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:184:57: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:184:45: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:184:57: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:210:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:228:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:251:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+error: lean/Composed_Tick_API_Theorem.lean:271:4: Tactic `assumption` failed
+
+g : ℕ
+hr : 0 ≤ 3
+hpkg :
+  state (g + 1) (seamTick g 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord ([3, 11] ++ [13]) (tick10 ((totientLCM [3, 11]).lcm (totientLCM [13])) (seamTick g 0)) =
+          (UniversalTicks.leadingBlock (seamTick g 0), List.map (fun m => seamTick g 0 % m) ([3, 11] ++ [13])) ∧
+        projectView scaleView ([3, 11] ++ [13]) (tick10 ((totientLCM [3, 11]).lcm (totientLCM [13])) (seamTick g 0)) =
+            projectView scaleView ([3, 11] ++ [13]) (seamTick g 0) ∧
+          projectView residueView ([3, 11] ++ [13])
+              (tick10 ((totientLCM [3, 11]).lcm (totientLCM [13])) (seamTick g 0)) =
+            projectView residueView ([3, 11] ++ [13]) (seamTick g 0)
+⊢ Nat.lcm 10 12 = 60
+error: lean/Composed_Tick_API_Theorem.lean:295:4: Application type mismatch: The argument
+  kernel_globalTick_add_package_3_11_13 n hn
+has type
+  systemCoord [3, 11, 13] (tick10 240 n) = systemCoord [3, 11, 13] n ∧
+    systemCoordMixed [3, 11, 13] 1 1 (tick10 240 n) =
+        (UniversalTicks.leadingBlock n, List.map (fun m => n % m) [3, 11, 13], 0, 0) ∧
+      projectView scaleView [3, 11, 13] (tick10 240 n) = projectView scaleView [3, 11, 13] n ∧
+        projectView residueView [3, 11, 13] (tick10 240 n) = projectView residueView [3, 11, 13] n
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:296:6: Application type mismatch: The argument
+  seam_globalTick_add_package_3_11_13_r0 g
+has type
+  state (g + 1) (seamTick g 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord [3, 11, 13] (tick10 240 (seamTick g 0)) =
+          (UniversalTicks.leadingBlock (seamTick g 0), List.map (fun m => seamTick g 0 % m) [3, 11, 13]) ∧
+        systemCoordMixed [3, 11, 13] 1 1 (tick10 240 (seamTick g 0)) =
+            (UniversalTicks.leadingBlock (seamTick g 0), List.map (fun m => seamTick g 0 % m) [3, 11, 13], 0, 0) ∧
+          projectView scaleView [3, 11, 13] (tick10 240 (seamTick g 0)) =
+              projectView scaleView [3, 11, 13] (seamTick g 0) ∧
+            projectView residueView [3, 11, 13] (tick10 240 (seamTick g 0)) =
+              projectView residueView [3, 11, 13] (seamTick g 0)
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:297:6: Application type mismatch: The argument
+  seam_totientLCM_package_3_11_13_r0 g
+has type
+  state (g + 1) (seamTick g 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord [3, 11, 13] (tick10 60 (seamTick g 0)) =
+          (UniversalTicks.leadingBlock (seamTick g 0), List.map (fun m => seamTick g 0 % m) [3, 11, 13]) ∧
+        projectView scaleView [3, 11, 13] (tick10 60 (seamTick g 0)) =
+            projectView scaleView [3, 11, 13] (seamTick g 0) ∧
+          projectView residueView [3, 11, 13] (tick10 60 (seamTick g 0)) =
+            projectView residueView [3, 11, 13] (seamTick g 0)
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+warning: lean/Composed_Tick_API_Theorem.lean:306:47: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:307:2: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:306:47: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:307:2: 'exact canonical_composed_trilogy_package 0 1 (by decide)' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+error: lean/Composed_Tick_API_Theorem.lean:310:4: type expected, got
+  (kernel_globalTick_add_package_3_11_13 1
+  ?m.3 : systemCoord [3, 11, 13] (tick10 240 1) = systemCoord [3, 11, 13] 1 ∧
+  systemCoordMixed [3, 11, 13] 1 1 (tick10 240 1) =
+      (UniversalTicks.leadingBlock 1, List.map (fun m => 1 % m) [3, 11, 13], 0, 0) ∧
+    projectView scaleView [3, 11, 13] (tick10 240 1) = projectView scaleView [3, 11, 13] 1 ∧
+      projectView residueView [3, 11, 13] (tick10 240 1) = projectView residueView [3, 11, 13] 1)
+error: lean/Composed_Tick_API_Theorem.lean:314:4: type expected, got
+  (seam_globalTick_add_package_3_11_13_r0
+  0 : state (0 + 1) (seamTick 0 0) = 0 ∧
+  CycleStepOrbit.nodeClosure [14] 1 0 ∧
+    systemCoord [3, 11, 13] (tick10 240 (seamTick 0 0)) =
+        (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [3, 11, 13]) ∧
+      systemCoordMixed [3, 11, 13] 1 1 (tick10 240 (seamTick 0 0)) =
+          (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [3, 11, 13], 0, 0) ∧
+        projectView scaleView [3, 11, 13] (tick10 240 (seamTick 0 0)) =
+            projectView scaleView [3, 11, 13] (seamTick 0 0) ∧
+          projectView residueView [3, 11, 13] (tick10 240 (seamTick 0 0)) =
+            projectView residueView [3, 11, 13] (seamTick 0 0))
+error: lean/Composed_Tick_API_Theorem.lean:318:4: type expected, got
+  (seam_totientLCM_package_3_11_13_r0
+  0 : state (0 + 1) (seamTick 0 0) = 0 ∧
+  CycleStepOrbit.nodeClosure [14] 1 0 ∧
+    systemCoord [3, 11, 13] (tick10 60 (seamTick 0 0)) =
+        (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [3, 11, 13]) ∧
+      projectView scaleView [3, 11, 13] (tick10 60 (seamTick 0 0)) = projectView scaleView [3, 11, 13] (seamTick 0 0) ∧
+        projectView residueView [3, 11, 13] (tick10 60 (seamTick 0 0)) =
+          projectView residueView [3, 11, 13] (seamTick 0 0))
+error: lean/Composed_Tick_API_Theorem.lean:322:4: type expected, got
+  (seam_lcm_subsystems_package_3_11_13_r0
+  0 : state (0 + 1) (seamTick 0 0) = 0 ∧
+  CycleStepOrbit.nodeClosure [14] 1 0 ∧
+    systemCoord ([3, 11] ++ [13]) (tick10 60 (seamTick 0 0)) =
+        (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) ([3, 11] ++ [13])) ∧
+      projectView scaleView ([3, 11] ++ [13]) (tick10 60 (seamTick 0 0)) =
+          projectView scaleView ([3, 11] ++ [13]) (seamTick 0 0) ∧
+        projectView residueView ([3, 11] ++ [13]) (tick10 60 (seamTick 0 0)) =
+          projectView residueView ([3, 11] ++ [13]) (seamTick 0 0))
+error: lean/Composed_Tick_API_Theorem.lean:326:4: Application type mismatch: The argument
+  kernel_globalTick_add_package_3_11_13 1 ?m.3
+has type
+  systemCoord [3, 11, 13] (tick10 240 1) = systemCoord [3, 11, 13] 1 ∧
+    systemCoordMixed [3, 11, 13] 1 1 (tick10 240 1) =
+        (UniversalTicks.leadingBlock 1, List.map (fun m => 1 % m) [3, 11, 13], 0, 0) ∧
+      projectView scaleView [3, 11, 13] (tick10 240 1) = projectView scaleView [3, 11, 13] 1 ∧
+        projectView residueView [3, 11, 13] (tick10 240 1) = projectView residueView [3, 11, 13] 1
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:327:6: Application type mismatch: The argument
+  seam_globalTick_add_package_3_11_13_r0 0
+has type
+  state (0 + 1) (seamTick 0 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord [3, 11, 13] (tick10 240 (seamTick 0 0)) =
+          (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [3, 11, 13]) ∧
+        systemCoordMixed [3, 11, 13] 1 1 (tick10 240 (seamTick 0 0)) =
+            (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [3, 11, 13], 0, 0) ∧
+          projectView scaleView [3, 11, 13] (tick10 240 (seamTick 0 0)) =
+              projectView scaleView [3, 11, 13] (seamTick 0 0) ∧
+            projectView residueView [3, 11, 13] (tick10 240 (seamTick 0 0)) =
+              projectView residueView [3, 11, 13] (seamTick 0 0)
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:328:6: Application type mismatch: The argument
+  seam_totientLCM_package_3_11_13_r0 0
+has type
+  state (0 + 1) (seamTick 0 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord [3, 11, 13] (tick10 60 (seamTick 0 0)) =
+          (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [3, 11, 13]) ∧
+        projectView scaleView [3, 11, 13] (tick10 60 (seamTick 0 0)) =
+            projectView scaleView [3, 11, 13] (seamTick 0 0) ∧
+          projectView residueView [3, 11, 13] (tick10 60 (seamTick 0 0)) =
+            projectView residueView [3, 11, 13] (seamTick 0 0)
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:331:10: Unknown identifier `kernel_globalTick_add_package_3_11_13_smoke`
+error: lean/Composed_Tick_API_Theorem.lean:332:10: Unknown identifier `seam_globalTick_add_package_3_11_13_r0_smoke`
+error: lean/Composed_Tick_API_Theorem.lean:333:10: Unknown identifier `seam_totientLCM_package_3_11_13_r0_smoke`
+error: lean/Composed_Tick_API_Theorem.lean:334:10: Unknown identifier `seam_lcm_subsystems_package_3_11_13_r0_smoke`
+warning: lean/Composed_Tick_API_Theorem.lean:336:8: declaration uses 'sorry'
+error: lean/Composed_Tick_API_Theorem.lean:346:4: Application type mismatch: The argument
+  kernel_globalTick_add_package n (ms₁ ++ ms₂) 1 1 1 1 hn (hgt_append_of_parts ms₁ ms₂ hgt₁ hgt₂)
+    (hcop_append_of_parts ms₁ ms₂ hcop₁ hcop₂)
+has type
+  systemCoord (ms₁ ++ ms₂) (tick10 (globalTick (ms₁ ++ ms₂) 1 1 + globalTick (ms₁ ++ ms₂) 1 1) n) =
+      systemCoord (ms₁ ++ ms₂) n ∧
+    systemCoordMixed (ms₁ ++ ms₂) 1 1 (tick10 (globalTick (ms₁ ++ ms₂) 1 1 + globalTick (ms₁ ++ ms₂) 1 1) n) =
+        (UniversalTicks.leadingBlock n, List.map (fun m => n % m) (ms₁ ++ ms₂), 0, 0) ∧
+      projectView scaleView (ms₁ ++ ms₂) (tick10 (globalTick (ms₁ ++ ms₂) 1 1 + globalTick (ms₁ ++ ms₂) 1 1) n) =
+          projectView scaleView (ms₁ ++ ms₂) n ∧
+        projectView residueView (ms₁ ++ ms₂) (tick10 (globalTick (ms₁ ++ ms₂) 1 1 + globalTick (ms₁ ++ ms₂) 1 1) n) =
+          projectView residueView (ms₁ ++ ms₂) n
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:351:6: Application type mismatch: The argument
+  seam_globalTick_add_package g 0 ?m.46 nodeClosure14_r0 (ms₁ ++ ms₂) 1 1 1 1 (hgt_append_of_parts ms₁ ms₂ hgt₁ hgt₂)
+    (hcop_append_of_parts ms₁ ms₂ hcop₁ hcop₂)
+has type
+  state (g + 1) (seamTick g 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord (ms₁ ++ ms₂) (tick10 (globalTick (ms₁ ++ ms₂) 1 1 + globalTick (ms₁ ++ ms₂) 1 1) (seamTick g 0)) =
+          (UniversalTicks.leadingBlock (seamTick g 0), List.map (fun m => seamTick g 0 % m) (ms₁ ++ ms₂)) ∧
+        systemCoordMixed (ms₁ ++ ms₂) 1 1
+              (tick10 (globalTick (ms₁ ++ ms₂) 1 1 + globalTick (ms₁ ++ ms₂) 1 1) (seamTick g 0)) =
+            (UniversalTicks.leadingBlock (seamTick g 0), List.map (fun m => seamTick g 0 % m) (ms₁ ++ ms₂), 0, 0) ∧
+          projectView scaleView (ms₁ ++ ms₂)
+                (tick10 (globalTick (ms₁ ++ ms₂) 1 1 + globalTick (ms₁ ++ ms₂) 1 1) (seamTick g 0)) =
+              projectView scaleView (ms₁ ++ ms₂) (seamTick g 0) ∧
+            projectView residueView (ms₁ ++ ms₂)
+                (tick10 (globalTick (ms₁ ++ ms₂) 1 1 + globalTick (ms₁ ++ ms₂) 1 1) (seamTick g 0)) =
+              projectView residueView (ms₁ ++ ms₂) (seamTick g 0)
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:357:6: Application type mismatch: The argument
+  seam_totientLCM_package g 0 ?m.61 nodeClosure14_r0 (ms₁ ++ ms₂) (hgt_append_of_parts ms₁ ms₂ hgt₁ hgt₂)
+    (hcop_append_of_parts ms₁ ms₂ hcop₁ hcop₂)
+has type
+  state (g + 1) (seamTick g 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord (ms₁ ++ ms₂) (tick10 (totientLCM (ms₁ ++ ms₂)) (seamTick g 0)) =
+          (UniversalTicks.leadingBlock (seamTick g 0), List.map (fun m => seamTick g 0 % m) (ms₁ ++ ms₂)) ∧
+        projectView scaleView (ms₁ ++ ms₂) (tick10 (totientLCM (ms₁ ++ ms₂)) (seamTick g 0)) =
+            projectView scaleView (ms₁ ++ ms₂) (seamTick g 0) ∧
+          projectView residueView (ms₁ ++ ms₂) (tick10 (totientLCM (ms₁ ++ ms₂)) (seamTick g 0)) =
+            projectView residueView (ms₁ ++ ms₂) (seamTick g 0)
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:390:4: type expected, got
+  (kernel_globalTick_add_package 1 [7, 11, 13] 1 1 1 1 ?m.21 hgt_7_11_13
+  hcop_7_11_13 : systemCoord [7, 11, 13] (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) 1) =
+    systemCoord [7, 11, 13] 1 ∧
+  systemCoordMixed [7, 11, 13] 1 1 (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) 1) =
+      (UniversalTicks.leadingBlock 1, List.map (fun m => 1 % m) [7, 11, 13], 0, 0) ∧
+    projectView scaleView [7, 11, 13] (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) 1) =
+        projectView scaleView [7, 11, 13] 1 ∧
+      projectView residueView [7, 11, 13] (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) 1) =
+        projectView residueView [7, 11, 13] 1)
+error: lean/Composed_Tick_API_Theorem.lean:400:4: type expected, got
+  (seam_globalTick_add_package 0 0 ?m.5 nodeClosure14_r0 [7, 11, 13] 1 1 1 1 hgt_7_11_13
+  hcop_7_11_13 : state (0 + 1) (seamTick 0 0) = 0 ∧
+  CycleStepOrbit.nodeClosure [14] 1 0 ∧
+    systemCoord [7, 11, 13] (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) (seamTick 0 0)) =
+        (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [7, 11, 13]) ∧
+      systemCoordMixed [7, 11, 13] 1 1
+            (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) (seamTick 0 0)) =
+          (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [7, 11, 13], 0, 0) ∧
+        projectView scaleView [7, 11, 13]
+              (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) (seamTick 0 0)) =
+            projectView scaleView [7, 11, 13] (seamTick 0 0) ∧
+          projectView residueView [7, 11, 13]
+              (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) (seamTick 0 0)) =
+            projectView residueView [7, 11, 13] (seamTick 0 0))
+error: lean/Composed_Tick_API_Theorem.lean:412:4: type expected, got
+  (seam_totientLCM_package 0 0 ?m.5 nodeClosure14_r0 [7, 11, 13] hgt_7_11_13
+  hcop_7_11_13 : state (0 + 1) (seamTick 0 0) = 0 ∧
+  CycleStepOrbit.nodeClosure [14] 1 0 ∧
+    systemCoord [7, 11, 13] (tick10 (totientLCM [7, 11, 13]) (seamTick 0 0)) =
+        (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [7, 11, 13]) ∧
+      projectView scaleView [7, 11, 13] (tick10 (totientLCM [7, 11, 13]) (seamTick 0 0)) =
+          projectView scaleView [7, 11, 13] (seamTick 0 0) ∧
+        projectView residueView [7, 11, 13] (tick10 (totientLCM [7, 11, 13]) (seamTick 0 0)) =
+          projectView residueView [7, 11, 13] (seamTick 0 0))
+error: lean/Composed_Tick_API_Theorem.lean:422:4: type expected, got
+  (seam_lcm_subsystems_package 0 0 ?m.5 nodeClosure14_r0 [7, 11] [13] hgt_7_11 hgt_13_singleton hcop_7_11
+  hcop_13_singleton : state (0 + 1) (seamTick 0 0) = 0 ∧
+  CycleStepOrbit.nodeClosure [14] 1 0 ∧
+    systemCoord ([7, 11] ++ [13]) (tick10 ((totientLCM [7, 11]).lcm (totientLCM [13])) (seamTick 0 0)) =
+        (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) ([7, 11] ++ [13])) ∧
+      projectView scaleView ([7, 11] ++ [13]) (tick10 ((totientLCM [7, 11]).lcm (totientLCM [13])) (seamTick 0 0)) =
+          projectView scaleView ([7, 11] ++ [13]) (seamTick 0 0) ∧
+        projectView residueView ([7, 11] ++ [13]) (tick10 ((totientLCM [7, 11]).lcm (totientLCM [13])) (seamTick 0 0)) =
+          projectView residueView ([7, 11] ++ [13]) (seamTick 0 0))
+error: lean/Composed_Tick_API_Theorem.lean:432:4: Application type mismatch: The argument
+  kernel_globalTick_add_package 1 [7, 11, 13] 1 1 1 1 ?m.21 hgt_7_11_13 hcop_7_11_13
+has type
+  systemCoord [7, 11, 13] (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) 1) =
+      systemCoord [7, 11, 13] 1 ∧
+    systemCoordMixed [7, 11, 13] 1 1 (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) 1) =
+        (UniversalTicks.leadingBlock 1, List.map (fun m => 1 % m) [7, 11, 13], 0, 0) ∧
+      projectView scaleView [7, 11, 13] (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) 1) =
+          projectView scaleView [7, 11, 13] 1 ∧
+        projectView residueView [7, 11, 13] (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) 1) =
+          projectView residueView [7, 11, 13] 1
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:436:6: Application type mismatch: The argument
+  seam_globalTick_add_package 0 0 ?m.26 nodeClosure14_r0 [7, 11, 13] 1 1 1 1 hgt_7_11_13 hcop_7_11_13
+has type
+  state (0 + 1) (seamTick 0 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord [7, 11, 13] (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) (seamTick 0 0)) =
+          (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [7, 11, 13]) ∧
+        systemCoordMixed [7, 11, 13] 1 1
+              (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) (seamTick 0 0)) =
+            (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [7, 11, 13], 0, 0) ∧
+          projectView scaleView [7, 11, 13]
+                (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) (seamTick 0 0)) =
+              projectView scaleView [7, 11, 13] (seamTick 0 0) ∧
+            projectView residueView [7, 11, 13]
+                (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) (seamTick 0 0)) =
+              projectView residueView [7, 11, 13] (seamTick 0 0)
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:441:6: Application type mismatch: The argument
+  seam_totientLCM_package 0 0 ?m.49 nodeClosure14_r0 [7, 11, 13] hgt_7_11_13 hcop_7_11_13
+has type
+  state (0 + 1) (seamTick 0 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord [7, 11, 13] (tick10 (totientLCM [7, 11, 13]) (seamTick 0 0)) =
+          (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [7, 11, 13]) ∧
+        projectView scaleView [7, 11, 13] (tick10 (totientLCM [7, 11, 13]) (seamTick 0 0)) =
+            projectView scaleView [7, 11, 13] (seamTick 0 0) ∧
+          projectView residueView [7, 11, 13] (tick10 (totientLCM [7, 11, 13]) (seamTick 0 0)) =
+            projectView residueView [7, 11, 13] (seamTick 0 0)
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:450:10: Unknown identifier `kernel_globalTick_add_package_7_11_13_smoke`
+error: lean/Composed_Tick_API_Theorem.lean:451:10: Unknown identifier `seam_globalTick_add_package_7_11_13_r0_smoke`
+error: lean/Composed_Tick_API_Theorem.lean:452:10: Unknown identifier `seam_totientLCM_package_7_11_13_r0_smoke`
+error: lean/Composed_Tick_API_Theorem.lean:453:10: Unknown identifier `seam_lcm_subsystems_package_7_11_13_r0_smoke`
+error: lean/Composed_Tick_API_Theorem.lean:457:4: Application type mismatch: The argument
+  kernel_globalTick_add_package n [7, 11, 13] 1 1 1 1 hn hgt_7_11_13 hcop_7_11_13
+has type
+  systemCoord [7, 11, 13] (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) n) =
+      systemCoord [7, 11, 13] n ∧
+    systemCoordMixed [7, 11, 13] 1 1 (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) n) =
+        (UniversalTicks.leadingBlock n, List.map (fun m => n % m) [7, 11, 13], 0, 0) ∧
+      projectView scaleView [7, 11, 13] (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) n) =
+          projectView scaleView [7, 11, 13] n ∧
+        projectView residueView [7, 11, 13] (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) n) =
+          projectView residueView [7, 11, 13] n
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:461:6: Application type mismatch: The argument
+  seam_globalTick_add_package g 0 ?m.24 nodeClosure14_r0 [7, 11, 13] 1 1 1 1 hgt_7_11_13 hcop_7_11_13
+has type
+  state (g + 1) (seamTick g 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord [7, 11, 13] (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) (seamTick g 0)) =
+          (UniversalTicks.leadingBlock (seamTick g 0), List.map (fun m => seamTick g 0 % m) [7, 11, 13]) ∧
+        systemCoordMixed [7, 11, 13] 1 1
+              (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) (seamTick g 0)) =
+            (UniversalTicks.leadingBlock (seamTick g 0), List.map (fun m => seamTick g 0 % m) [7, 11, 13], 0, 0) ∧
+          projectView scaleView [7, 11, 13]
+                (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) (seamTick g 0)) =
+              projectView scaleView [7, 11, 13] (seamTick g 0) ∧
+            projectView residueView [7, 11, 13]
+                (tick10 (globalTick [7, 11, 13] 1 1 + globalTick [7, 11, 13] 1 1) (seamTick g 0)) =
+              projectView residueView [7, 11, 13] (seamTick g 0)
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:466:6: Application type mismatch: The argument
+  seam_totientLCM_package g 0 ?m.45 nodeClosure14_r0 [7, 11, 13] hgt_7_11_13 hcop_7_11_13
+has type
+  state (g + 1) (seamTick g 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord [7, 11, 13] (tick10 (totientLCM [7, 11, 13]) (seamTick g 0)) =
+          (UniversalTicks.leadingBlock (seamTick g 0), List.map (fun m => seamTick g 0 % m) [7, 11, 13]) ∧
+        projectView scaleView [7, 11, 13] (tick10 (totientLCM [7, 11, 13]) (seamTick g 0)) =
+            projectView scaleView [7, 11, 13] (seamTick g 0) ∧
+          projectView residueView [7, 11, 13] (tick10 (totientLCM [7, 11, 13]) (seamTick g 0)) =
+            projectView residueView [7, 11, 13] (seamTick g 0)
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+warning: lean/Composed_Tick_API_Theorem.lean:480:8: declaration uses 'sorry'
+error: lean/Composed_Tick_API_Theorem.lean:486:4: type expected, got
+  (kernel_globalTick_add_package 1 [3, 7, 13] 1 1 1 1 ?m.21 hgt_3_7_13
+  hcop_3_7_13 : systemCoord [3, 7, 13] (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) 1) =
+    systemCoord [3, 7, 13] 1 ∧
+  systemCoordMixed [3, 7, 13] 1 1 (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) 1) =
+      (UniversalTicks.leadingBlock 1, List.map (fun m => 1 % m) [3, 7, 13], 0, 0) ∧
+    projectView scaleView [3, 7, 13] (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) 1) =
+        projectView scaleView [3, 7, 13] 1 ∧
+      projectView residueView [3, 7, 13] (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) 1) =
+        projectView residueView [3, 7, 13] 1)
+error: lean/Composed_Tick_API_Theorem.lean:496:4: type expected, got
+  (seam_globalTick_add_package 0 0 ?m.5 nodeClosure14_r0 [3, 7, 13] 1 1 1 1 hgt_3_7_13
+  hcop_3_7_13 : state (0 + 1) (seamTick 0 0) = 0 ∧
+  CycleStepOrbit.nodeClosure [14] 1 0 ∧
+    systemCoord [3, 7, 13] (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) (seamTick 0 0)) =
+        (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [3, 7, 13]) ∧
+      systemCoordMixed [3, 7, 13] 1 1 (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) (seamTick 0 0)) =
+          (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [3, 7, 13], 0, 0) ∧
+        projectView scaleView [3, 7, 13]
+              (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) (seamTick 0 0)) =
+            projectView scaleView [3, 7, 13] (seamTick 0 0) ∧
+          projectView residueView [3, 7, 13]
+              (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) (seamTick 0 0)) =
+            projectView residueView [3, 7, 13] (seamTick 0 0))
+error: lean/Composed_Tick_API_Theorem.lean:508:4: type expected, got
+  (seam_totientLCM_package 0 0 ?m.5 nodeClosure14_r0 [3, 7, 13] hgt_3_7_13
+  hcop_3_7_13 : state (0 + 1) (seamTick 0 0) = 0 ∧
+  CycleStepOrbit.nodeClosure [14] 1 0 ∧
+    systemCoord [3, 7, 13] (tick10 (totientLCM [3, 7, 13]) (seamTick 0 0)) =
+        (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [3, 7, 13]) ∧
+      projectView scaleView [3, 7, 13] (tick10 (totientLCM [3, 7, 13]) (seamTick 0 0)) =
+          projectView scaleView [3, 7, 13] (seamTick 0 0) ∧
+        projectView residueView [3, 7, 13] (tick10 (totientLCM [3, 7, 13]) (seamTick 0 0)) =
+          projectView residueView [3, 7, 13] (seamTick 0 0))
+error: lean/Composed_Tick_API_Theorem.lean:518:4: type expected, got
+  (seam_lcm_subsystems_package 0 0 ?m.5 nodeClosure14_r0 [3, 7] [13] hgt_3_7 hgt_13_singleton hcop_3_7
+  hcop_13_singleton : state (0 + 1) (seamTick 0 0) = 0 ∧
+  CycleStepOrbit.nodeClosure [14] 1 0 ∧
+    systemCoord ([3, 7] ++ [13]) (tick10 ((totientLCM [3, 7]).lcm (totientLCM [13])) (seamTick 0 0)) =
+        (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) ([3, 7] ++ [13])) ∧
+      projectView scaleView ([3, 7] ++ [13]) (tick10 ((totientLCM [3, 7]).lcm (totientLCM [13])) (seamTick 0 0)) =
+          projectView scaleView ([3, 7] ++ [13]) (seamTick 0 0) ∧
+        projectView residueView ([3, 7] ++ [13]) (tick10 ((totientLCM [3, 7]).lcm (totientLCM [13])) (seamTick 0 0)) =
+          projectView residueView ([3, 7] ++ [13]) (seamTick 0 0))
+error: lean/Composed_Tick_API_Theorem.lean:528:4: Application type mismatch: The argument
+  kernel_globalTick_add_package 1 [3, 7, 13] 1 1 1 1 ?m.21 hgt_3_7_13 hcop_3_7_13
+has type
+  systemCoord [3, 7, 13] (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) 1) = systemCoord [3, 7, 13] 1 ∧
+    systemCoordMixed [3, 7, 13] 1 1 (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) 1) =
+        (UniversalTicks.leadingBlock 1, List.map (fun m => 1 % m) [3, 7, 13], 0, 0) ∧
+      projectView scaleView [3, 7, 13] (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) 1) =
+          projectView scaleView [3, 7, 13] 1 ∧
+        projectView residueView [3, 7, 13] (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) 1) =
+          projectView residueView [3, 7, 13] 1
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:532:6: Application type mismatch: The argument
+  seam_globalTick_add_package 0 0 ?m.26 nodeClosure14_r0 [3, 7, 13] 1 1 1 1 hgt_3_7_13 hcop_3_7_13
+has type
+  state (0 + 1) (seamTick 0 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord [3, 7, 13] (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) (seamTick 0 0)) =
+          (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [3, 7, 13]) ∧
+        systemCoordMixed [3, 7, 13] 1 1
+              (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) (seamTick 0 0)) =
+            (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [3, 7, 13], 0, 0) ∧
+          projectView scaleView [3, 7, 13]
+                (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) (seamTick 0 0)) =
+              projectView scaleView [3, 7, 13] (seamTick 0 0) ∧
+            projectView residueView [3, 7, 13]
+                (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) (seamTick 0 0)) =
+              projectView residueView [3, 7, 13] (seamTick 0 0)
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:537:6: Application type mismatch: The argument
+  seam_totientLCM_package 0 0 ?m.49 nodeClosure14_r0 [3, 7, 13] hgt_3_7_13 hcop_3_7_13
+has type
+  state (0 + 1) (seamTick 0 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord [3, 7, 13] (tick10 (totientLCM [3, 7, 13]) (seamTick 0 0)) =
+          (UniversalTicks.leadingBlock (seamTick 0 0), List.map (fun m => seamTick 0 0 % m) [3, 7, 13]) ∧
+        projectView scaleView [3, 7, 13] (tick10 (totientLCM [3, 7, 13]) (seamTick 0 0)) =
+            projectView scaleView [3, 7, 13] (seamTick 0 0) ∧
+          projectView residueView [3, 7, 13] (tick10 (totientLCM [3, 7, 13]) (seamTick 0 0)) =
+            projectView residueView [3, 7, 13] (seamTick 0 0)
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:546:10: Unknown identifier `kernel_globalTick_add_package_3_7_13_smoke`
+error: lean/Composed_Tick_API_Theorem.lean:547:10: Unknown identifier `seam_globalTick_add_package_3_7_13_r0_smoke`
+error: lean/Composed_Tick_API_Theorem.lean:548:10: Unknown identifier `seam_totientLCM_package_3_7_13_r0_smoke`
+error: lean/Composed_Tick_API_Theorem.lean:549:10: Unknown identifier `seam_lcm_subsystems_package_3_7_13_r0_smoke`
+error: lean/Composed_Tick_API_Theorem.lean:553:4: Application type mismatch: The argument
+  kernel_globalTick_add_package n [3, 7, 13] 1 1 1 1 hn hgt_3_7_13 hcop_3_7_13
+has type
+  systemCoord [3, 7, 13] (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) n) = systemCoord [3, 7, 13] n ∧
+    systemCoordMixed [3, 7, 13] 1 1 (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) n) =
+        (UniversalTicks.leadingBlock n, List.map (fun m => n % m) [3, 7, 13], 0, 0) ∧
+      projectView scaleView [3, 7, 13] (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) n) =
+          projectView scaleView [3, 7, 13] n ∧
+        projectView residueView [3, 7, 13] (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) n) =
+          projectView residueView [3, 7, 13] n
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:557:6: Application type mismatch: The argument
+  seam_globalTick_add_package g 0 ?m.24 nodeClosure14_r0 [3, 7, 13] 1 1 1 1 hgt_3_7_13 hcop_3_7_13
+has type
+  state (g + 1) (seamTick g 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord [3, 7, 13] (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) (seamTick g 0)) =
+          (UniversalTicks.leadingBlock (seamTick g 0), List.map (fun m => seamTick g 0 % m) [3, 7, 13]) ∧
+        systemCoordMixed [3, 7, 13] 1 1
+              (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) (seamTick g 0)) =
+            (UniversalTicks.leadingBlock (seamTick g 0), List.map (fun m => seamTick g 0 % m) [3, 7, 13], 0, 0) ∧
+          projectView scaleView [3, 7, 13]
+                (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) (seamTick g 0)) =
+              projectView scaleView [3, 7, 13] (seamTick g 0) ∧
+            projectView residueView [3, 7, 13]
+                (tick10 (globalTick [3, 7, 13] 1 1 + globalTick [3, 7, 13] 1 1) (seamTick g 0)) =
+              projectView residueView [3, 7, 13] (seamTick g 0)
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+error: lean/Composed_Tick_API_Theorem.lean:562:6: Application type mismatch: The argument
+  seam_totientLCM_package g 0 ?m.45 nodeClosure14_r0 [3, 7, 13] hgt_3_7_13 hcop_3_7_13
+has type
+  state (g + 1) (seamTick g 0) = 0 ∧
+    CycleStepOrbit.nodeClosure [14] 1 0 ∧
+      systemCoord [3, 7, 13] (tick10 (totientLCM [3, 7, 13]) (seamTick g 0)) =
+          (UniversalTicks.leadingBlock (seamTick g 0), List.map (fun m => seamTick g 0 % m) [3, 7, 13]) ∧
+        projectView scaleView [3, 7, 13] (tick10 (totientLCM [3, 7, 13]) (seamTick g 0)) =
+            projectView scaleView [3, 7, 13] (seamTick g 0) ∧
+          projectView residueView [3, 7, 13] (tick10 (totientLCM [3, 7, 13]) (seamTick g 0)) =
+            projectView residueView [3, 7, 13] (seamTick g 0)
+of sort `Prop` but is expected to have type
+  Prop
+of sort `Type` in the application
+  And ⋯
+warning: lean/Composed_Tick_API_Theorem.lean:576:8: declaration uses 'sorry'
+warning: lean/Composed_Tick_API_Theorem.lean:580:8: declaration uses 'sorry'
+error: lean/Composed_Tick_API_Theorem.lean:599:4: No goals to be solved
+error: Lean exited with code 1
+Some required targets logged failures:
+- Composed_Tick_API_Theorem
+error: build failed

@@ -1,0 +1,30 @@
+{
+  "theorem": "anchor_144_cross_domain_integration_protocol_v1",
+  "claim_subset": {
+    "base_anchor": 144,
+    "phase_temps": [
+      144,
+      1440,
+      14400
+    ],
+    "decimal_anchor": 144000
+  },
+  "structural_checks": {
+    "phase_is_base_times_powers_of_10": true,
+    "phase_ratios_are_10": [
+      10,
+      10
+    ],
+    "decimal_anchor_is_base_times_1000": true,
+    "decimal_digits_levels_1_to_6": [
+      0,
+      0,
+      0,
+      4,
+      4,
+      1
+    ],
+    "decimal_digits_match_expected": true,
+    "high_digits_form_144": true
+  }
+}

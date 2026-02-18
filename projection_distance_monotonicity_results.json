@@ -1,0 +1,69 @@
+{
+  "theorem": "projection_distance_monotonicity_protocol_v1",
+  "claim_subset": {
+    "law": "ln O = ln O* + d_M * alpha * S",
+    "focus": "monotone in d_M for alpha,S > 0"
+  },
+  "parameters": {
+    "ln_o_star": {
+      "num": 7,
+      "den": 3
+    },
+    "alpha": {
+      "num": 1,
+      "den": 10
+    },
+    "s": {
+      "num": 3,
+      "den": 1
+    },
+    "dms": [
+      {
+        "num": 0,
+        "den": 1
+      },
+      {
+        "num": 1,
+        "den": 1
+      },
+      {
+        "num": 2,
+        "den": 1
+      },
+      {
+        "num": 5,
+        "den": 1
+      }
+    ]
+  },
+  "structural_checks": {
+    "strictly_increasing": true,
+    "outputs": [
+      {
+        "num": 7,
+        "den": 3
+      },
+      {
+        "num": 79,
+        "den": 30
+      },
+      {
+        "num": 44,
+        "den": 15
+      },
+      {
+        "num": 23,
+        "den": 6
+      }
+    ],
+    "unit_step_difference_constant": true,
+    "step01": {
+      "num": 3,
+      "den": 10
+    },
+    "step12": {
+      "num": 3,
+      "den": 10
+    }
+  }
+}

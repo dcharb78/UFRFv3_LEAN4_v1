@@ -1,0 +1,23 @@
+{
+  "theorem": "ppn_micro_oscillation_projection_protocol_v1",
+  "claim_subset": {
+    "periodicity": "13-beat micro-oscillation",
+    "unity_mean": "cycle-mean around 1",
+    "projection_link": "delta = d_M * alpha * S (synthetic scaffold)"
+  },
+  "structural_checks": {
+    "mean_gamma_is_one": true,
+    "mean_beta_is_one": true,
+    "periodic_mod_13": true,
+    "gamma_plus_beta_equals_two": true,
+    "projection_term_matches_delta": true,
+    "mean_gamma": {
+      "num": 1,
+      "den": 1
+    },
+    "mean_beta": {
+      "num": 1,
+      "den": 1
+    }
+  }
+}

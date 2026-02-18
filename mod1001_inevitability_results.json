@@ -1,0 +1,33 @@
+{
+  "theorem": "mod1001_inevitability_protocol_v1",
+  "claim_subset": {
+    "decimal_constraint": "m divides 10^3 + 1",
+    "axis_constraint": "13 divides m",
+    "full_closure_constraint": "7,11,13 all divide m"
+  },
+  "structural_checks": {
+    "target_is_1001": true,
+    "target_factorization": true,
+    "divisors_of_1001": [
+      1,
+      7,
+      11,
+      13,
+      77,
+      91,
+      143,
+      1001
+    ],
+    "divisors_with_13_axis": [
+      13,
+      91,
+      143,
+      1001
+    ],
+    "full_axis_closure_candidates": [
+      1001
+    ],
+    "max_with_13_axis_is_1001": true,
+    "unique_full_axis_closure_modulus": true
+  }
+}

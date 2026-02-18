@@ -1,0 +1,11 @@
+{
+  "anticommutator_max_error": 0.0,
+  "factorization_error": 5.551115123125783e-17,
+  "p": [
+    2.0,
+    0.3,
+    -0.1,
+    0.2
+  ],
+  "p2_minus_m2": 2.8600000000000003
+}

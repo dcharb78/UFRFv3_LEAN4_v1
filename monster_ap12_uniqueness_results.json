@@ -1,0 +1,43 @@
+{
+  "theorem": "monster_ap12_uniqueness_protocol_v1",
+  "claim_subset": {
+    "l2_from_ufrf": true,
+    "ap12_filter": "unique triple",
+    "moonshine_anchor": "product+1"
+  },
+  "structural_checks": {
+    "l2_all": [
+      7,
+      11,
+      19,
+      23,
+      23,
+      39,
+      47,
+      59,
+      71,
+      119
+    ],
+    "l2_full": [
+      7,
+      11,
+      19,
+      23,
+      39,
+      47,
+      59,
+      71,
+      119
+    ],
+    "ap12_triples": [
+      [
+        47,
+        59,
+        71
+      ]
+    ],
+    "ap12_count_is_one": true,
+    "ap12_unique_is_monster": true,
+    "c1_equals_196884": true
+  }
+}

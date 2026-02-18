@@ -1,0 +1,34 @@
+{
+  "theorem": "galaxy_rotation_mod13_residual_protocol_v1",
+  "claim_subset": {
+    "residual_state": "k mod 13",
+    "bin_min": 1,
+    "bin_max": 39
+  },
+  "structural_checks": {
+    "periodic_under_plus13": true,
+    "balanced_three_cycles": true,
+    "count_per_residue": {
+      "0": 3,
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 3,
+      "5": 3,
+      "6": 3,
+      "7": 3,
+      "8": 3,
+      "9": 3,
+      "10": 3,
+      "11": 3,
+      "12": 3
+    }
+  },
+  "anchors": {
+    "state_1": 1,
+    "state_13": 0,
+    "state_14": 1,
+    "state_26": 0,
+    "state_27": 1
+  }
+}

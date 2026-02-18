@@ -1,0 +1,9 @@
+CERT_MODE=clean
+START_UTC=2026-02-12T06:59:46Z
+ROOT_DIR=/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine
+LEAN_TOOLCHAIN=leanprover/lean4:v4.26.0-rc2
+
+== Lean clean ==
+error: directory not empty (error code: 66)
+CERT_STATUS=FAIL
+CERT_LOG=/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/context/cert/certify_clean_20260212T065946Z.log

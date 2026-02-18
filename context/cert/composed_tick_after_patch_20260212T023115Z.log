@@ -1,0 +1,384 @@
+⚠ [7588/7607] Replayed REST_Seam_Core_Theorem
+warning: lean/REST_Seam_Core_Theorem.lean:45:29: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [birth, Nat.succ_mul, N̵a̵t̵.̵a̵d̵d̵_̵a̵s̵s̵o̵c̵,̵ ̵Nat.add_comm, Nat.add_left_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_Core_Theorem.lean:45:58: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [birth, Nat.succ_mul, Nat.add_assoc, Nat.add_comm,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_Core_Theorem.lean:49:36: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [seamTick, rest, birth_succ, Nat.add_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm, Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_Core_Theorem.lean:49:51: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [seamTick, rest, birth_succ, Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [7589/7607] Replayed CycleStep_Orbit_Theorem
+warning: lean/CycleStep_Orbit_Theorem.lean:191:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7592/7607] Replayed CycleStep_Orbit_NAxes_Theorem
+warning: lean/CycleStep_Orbit_NAxes_Theorem.lean:61:79: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [lcmList, ih hxs, List.prod_cons, Nat.Coprime.lcm_eq_mul hcop_prod,̵ ̵N̵a̵t̵.̵m̵u̵l̵_̵a̵s̵s̵o̵c̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [7593/7607] Replayed Observer_Tick_Axis_Family_Theorem
+warning: lean/Observer_Tick_Axis_Family_Theorem.lean:94:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7594/7607] Replayed NodeClosure_Singleton_Generic_Theorem
+warning: lean/NodeClosure_Singleton_Generic_Theorem.lean:29:28: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7595/7607] Replayed Seam_Generic_API_Theorem
+warning: lean/Seam_Generic_API_Theorem.lean:34:39: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [seamTick, birth, Nat.succ_mul, Nat.add_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm, Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Seam_Generic_API_Theorem.lean:34:54: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [seamTick, birth, Nat.succ_mul, Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Seam_Generic_API_Theorem.lean:51:10: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Seam_Generic_API_Theorem.lean:49:50: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [state, seamTick, Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Seam_Generic_API_Theorem.lean:61:10: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Seam_Generic_API_Theorem.lean:75:10: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7600/7607] Replayed Decimal_Mod13_Concurrency_Theorem
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:52:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:54:12: This simp argument is unused:
+  ten_pow_three_add_one_mod13
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵t̵e̵n̵_̵p̵o̵w̵_̵t̵h̵r̵e̵e̵_̵a̵d̵d̵_̵o̵n̵e̵_̵m̵o̵d̵1̵3̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:64:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:68:12: This simp argument is unused:
+  ten_pow_six_mod13
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵t̵e̵n̵_̵p̵o̵w̵_̵s̵i̵x̵_̵m̵o̵d̵1̵3̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:76:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:82:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:78:12: This simp argument is unused:
+  ten_pow_six_mod13
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵t̵e̵n̵_̵p̵o̵w̵_̵s̵i̵x̵_̵m̵o̵d̵1̵3̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:88:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Decimal_Mod13_Concurrency_Theorem.lean:94:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7601/7607] Replayed Multidimensional_Ticks_Theorem
+warning: lean/Multidimensional_Ticks_Theorem.lean:32:29: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [tick10, Nat.pow_add, N̵a̵t̵.̵m̵u̵l̵_̵a̵s̵s̵o̵c̵,̵ ̵Nat.mul_left_comm, Nat.mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:47:29: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [tick10, Nat.mul_mod, N̵a̵t̵.̵m̵u̵l̵_̵a̵s̵s̵o̵c̵,̵ ̵Nat.mul_left_comm, Nat.mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:47:44: This simp argument is unused:
+  Nat.mul_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [tick10, Nat.mul_mod, Nat.mul_assoc, N̵a̵t̵.̵m̵u̵l̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:47:63: This simp argument is unused:
+  Nat.mul_comm
+
+Hint: Omit it from the simp argument list.
+  simp [tick10, Nat.mul_mod, Nat.mul_assoc, Nat.mul_left_comm,̵ ̵N̵a̵t̵.̵m̵u̵l̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:56:20: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:128:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:135:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:380:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:436:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:508:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:516:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:685:23: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: lean/Multidimensional_Ticks_Theorem.lean:693:23: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [7604/7607] Replayed REST_Seam_AspectProjection_Bridge_Theorem
+warning: lean/REST_Seam_AspectProjection_Bridge_Theorem.lean:27:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_AspectProjection_Bridge_Theorem.lean:65:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_AspectProjection_Bridge_Theorem.lean:104:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_AspectProjection_Bridge_Theorem.lean:144:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7605/7607] Replayed REST_Seam_SystemCoordMixed_Bridge_Theorem
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:31:49: This simp argument is unused:
+  Nat.add_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm, Nat.add_comm,
+  ̵  ̵ ̵ ̵Nat.mul_assoc,
+  ̲  ̲ ̲ ̲Nat.mul_left_comm, Nat.mul_comm, hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:31:64: This simp argument is unused:
+  Nat.add_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_assoc, N̵a̵t̵.̵a̵d̵d̵_̵l̵e̵f̵t̵_̵c̵o̵m̵m̵,̵ ̵Nat.add_comm, Nat.mul_assoc,
+  ̲  ̲ ̲ ̲Nat.mul_left_comm, Nat.mul_comm, hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:32:4: This simp argument is unused:
+  Nat.mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_assoc, Nat.add_left_comm, Nat.add_comm,
+      Nat.mul_a̵s̵s̵o̵c̵,̵ ̵N̵a̵t̵.̵m̵u̵l_̵l̵eft_comm, Nat.mul_comm, hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:32:19: This simp argument is unused:
+  Nat.mul_left_comm
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_assoc, Nat.add_left_comm, Nat.add_comm,
+      Nat.mul_assoc, Nat.mul_l̵e̵f̵t̵_̵comm, N̵a̵t̵.̵m̵u̵l̵_̵c̵o̵m̵m̵,̵ ̵hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:32:38: This simp argument is unused:
+  Nat.mul_comm
+
+Hint: Omit it from the simp argument list.
+  simp [systemCoordMixed, seamTick, birth, rest, Nat.add_assoc, Nat.add_left_comm, Nat.add_comm,
+      Nat.mul_assoc, Nat.mul_left_comm, N̵a̵t̵.̵m̵u̵l̵_̵c̵o̵m̵m̵,̵ ̵hmod2, hmod5]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:43:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:59:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean:76:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7606/7607] Replayed REST_Seam_Unified_Interface_Theorem
+warning: lean/REST_Seam_Unified_Interface_Theorem.lean:81:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Unified_Interface_Theorem.lean:136:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/REST_Seam_Unified_Interface_Theorem.lean:258:49: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [7607/7607] Built Composed_Tick_API_Theorem (22s)
+warning: lean/Composed_Tick_API_Theorem.lean:125:21: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: lean/Composed_Tick_API_Theorem.lean:145:21: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: lean/Composed_Tick_API_Theorem.lean:148:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:148:51: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:148:63: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:148:75: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:148:51: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:148:63: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:148:75: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:154:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:154:46: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:154:58: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:154:46: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:154:58: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:160:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:160:48: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:160:48: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:166:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:166:51: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:166:63: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:166:75: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:166:51: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:166:63: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:166:75: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:172:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:172:46: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:172:58: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:172:46: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:172:58: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:178:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:178:50: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:178:62: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:178:74: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:178:50: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:178:62: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:178:74: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:184:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:184:45: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:184:57: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:184:45: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:184:57: 'decide' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: lean/Composed_Tick_API_Theorem.lean:210:2: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:228:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: lean/Composed_Tick_API_Theorem.lean:251:4: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+Build completed successfully (7607 jobs).

@@ -1,0 +1,21 @@
+{
+  "theorem": "observer_composition_projection_protocol_v1",
+  "claim_subset": {
+    "formula": "Delta ln O = d_M1*alpha1*S1 + d_M2*alpha2*S2",
+    "observer_chain": "A observes B observes C"
+  },
+  "synthetic_parameters": {
+    "d_ab": 23,
+    "alpha_b": 1,
+    "s_b": 2,
+    "d_bc": 17,
+    "alpha_c": 2,
+    "s_c": 3
+  },
+  "structural_checks": {
+    "term_ab": 46,
+    "term_bc": 102,
+    "delta_total": 148,
+    "additive_composition_holds": true
+  }
+}

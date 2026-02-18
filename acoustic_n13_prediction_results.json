@@ -1,0 +1,101 @@
+{
+  "theorem": "acoustic_n13_prediction_protocol_v1",
+  "claim_subset": {
+    "formula": "f_n = 432 * (n/13)",
+    "n_min": 1,
+    "n_max": 13,
+    "base_frequency_hz": 432
+  },
+  "structural_checks": {
+    "count": 13,
+    "monotone_increasing": true,
+    "constant_step": true,
+    "step_numerator": 432,
+    "step_denominator": 13,
+    "f_1_numerator": 432,
+    "f_1_denominator": 13,
+    "f_10_numerator": 4320,
+    "f_10_denominator": 13,
+    "f_13_is_432": true
+  },
+  "table": [
+    {
+      "n": 1,
+      "numerator": 432,
+      "denominator": 13,
+      "decimal": 33.23076923076923
+    },
+    {
+      "n": 2,
+      "numerator": 864,
+      "denominator": 13,
+      "decimal": 66.46153846153847
+    },
+    {
+      "n": 3,
+      "numerator": 1296,
+      "denominator": 13,
+      "decimal": 99.6923076923077
+    },
+    {
+      "n": 4,
+      "numerator": 1728,
+      "denominator": 13,
+      "decimal": 132.92307692307693
+    },
+    {
+      "n": 5,
+      "numerator": 2160,
+      "denominator": 13,
+      "decimal": 166.15384615384616
+    },
+    {
+      "n": 6,
+      "numerator": 2592,
+      "denominator": 13,
+      "decimal": 199.3846153846154
+    },
+    {
+      "n": 7,
+      "numerator": 3024,
+      "denominator": 13,
+      "decimal": 232.6153846153846
+    },
+    {
+      "n": 8,
+      "numerator": 3456,
+      "denominator": 13,
+      "decimal": 265.84615384615387
+    },
+    {
+      "n": 9,
+      "numerator": 3888,
+      "denominator": 13,
+      "decimal": 299.0769230769231
+    },
+    {
+      "n": 10,
+      "numerator": 4320,
+      "denominator": 13,
+      "decimal": 332.3076923076923
+    },
+    {
+      "n": 11,
+      "numerator": 4752,
+      "denominator": 13,
+      "decimal": 365.53846153846155
+    },
+    {
+      "n": 12,
+      "numerator": 5184,
+      "denominator": 13,
+      "decimal": 398.7692307692308
+    },
+    {
+      "n": 13,
+      "numerator": 432,
+      "denominator": 1,
+      "decimal": 432.0
+    }
+  ]
+}

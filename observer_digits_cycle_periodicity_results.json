@@ -1,0 +1,31 @@
+{
+  "base": 10,
+  "cycle_modulus": 13,
+  "period": 6,
+  "sample_size": 200,
+  "max_depth_exclusive": 24,
+  "period_shift_table_pow10_mod13": [
+    1,
+    10,
+    9,
+    12,
+    3,
+    4
+  ],
+  "shift_periodicity_all_holds": true,
+  "shift_residue_lookup_all_holds": true,
+  "plus_digit_shift_all_holds": true,
+  "plus_cycle_shift_all_holds": true,
+  "plus_cycle_shift_residue_lookup_all_holds": true,
+  "lower_digit_stability_all_holds": true,
+  "cycle_add_pow10_periodicity_all_holds": true,
+  "cycle_mul_tick10_6_return_all_holds": true,
+  "expected_period_shift_table": [
+    1,
+    10,
+    9,
+    12,
+    3,
+    4
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "theorem": "critical_positions_alignment_protocol_v1",
+  "claim_subset": {
+    "shell_positions": [
+      {
+        "num": 5,
+        "den": 2
+      },
+      {
+        "num": 11,
+        "den": 2
+      },
+      {
+        "num": 17,
+        "den": 2
+      },
+      {
+        "num": 23,
+        "den": 2
+      },
+      {
+        "num": 29,
+        "den": 2
+      }
+    ],
+    "acoustic_positions": [
+      {
+        "num": 5,
+        "den": 2
+      },
+      {
+        "num": 11,
+        "den": 2
+      },
+      {
+        "num": 17,
+        "den": 2
+      },
+      {
+        "num": 10,
+        "den": 1
+      },
+      {
+        "num": 23,
+        "den": 2
+      }
+    ]
+  },
+  "structural_checks": {
+    "shared_positions": [
+      {
+        "num": 5,
+        "den": 2
+      },
+      {
+        "num": 11,
+        "den": 2
+      },
+      {
+        "num": 17,
+        "den": 2
+      },
+      {
+        "num": 23,
+        "den": 2
+      }
+    ],
+    "shared_exactly_2_5_5_5_8_5_11_5": true,
+    "rest10_in_acoustic": true,
+    "rest10_not_in_shell": true,
+    "shell_forward_anchor_14_5_present": true,
+    "shell_step_3_constant": true,
+    "acoustic_contains_rest_and_prepost_halfsteps": true
+  }
+}

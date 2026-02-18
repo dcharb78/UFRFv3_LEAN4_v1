@@ -1,0 +1,23 @@
+{
+  "theorem": "submagic_multiples13_prediction_protocol_v1",
+  "claim_subset": {
+    "values": [
+      26,
+      39,
+      52,
+      65,
+      78,
+      91,
+      104,
+      117
+    ],
+    "expected_step": 13
+  },
+  "structural_checks": {
+    "count": 8,
+    "all_multiples_of_13": true,
+    "constant_step_13": true,
+    "first_is_2x13": true,
+    "last_is_9x13": true
+  }
+}

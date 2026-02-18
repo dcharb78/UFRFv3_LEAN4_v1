@@ -1,0 +1,35 @@
+{
+  "cases": 15625,
+  "convention": {
+    "dual_em": "\u22c6(E,B)=(B,-E)",
+    "starF": "(F01,F02,F03,F23,F31,F12) -> (F23,F31,F12,-F01,-F02,-F03)",
+    "toF": "F01=Ex,F02=Ey,F03=Ez; F23=Bx,F31=By,F12=Bz (antisymmetric fill)"
+  },
+  "ok": true,
+  "star_commutes_with_toF_and_dual": true,
+  "star_output_is_antisymmetric": true,
+  "star_square_is_neg_on_toF_image": true,
+  "theorem": "maxwell_tensor_hodge_star_protocol_v1",
+  "window": {
+    "max": 2,
+    "min": -2
+  },
+  "witness": {
+    "F01": -2,
+    "F02": -2,
+    "F03": -2,
+    "F12": -2,
+    "F23": -2,
+    "F31": -2,
+    "b": [
+      -2,
+      -2,
+      -2
+    ],
+    "e": [
+      -2,
+      -2,
+      -2
+    ]
+  }
+}

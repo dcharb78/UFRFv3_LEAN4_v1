@@ -1,0 +1,40 @@
+{
+  "theorem": "riemann_zero_exclusion",
+  "num_zeros": 100,
+  "ufrf": {
+    "generators": [
+      3,
+      5,
+      7,
+      11,
+      13
+    ],
+    "lattice_points": 1430,
+    "mean_distance": 0.06463133036553942,
+    "median_distance": 0.04717887827426637,
+    "std": 0.057974443256827976
+  },
+  "monster": {
+    "generators": [
+      47,
+      59,
+      71
+    ],
+    "lattice_points": 6982,
+    "mean_distance": 0.013080938881077007,
+    "median_distance": 0.010952478771422136,
+    "std": 0.010652428857985322
+  },
+  "comparison": {
+    "density_ratio": 4.87434554973822,
+    "mean_ratio": 0.2023931552560396,
+    "median_ratio": 0.23214792661563013
+  },
+  "statistics": {
+    "t_statistic": -8.701673073832136,
+    "p_value": 1.268381214292514e-15,
+    "significant": true,
+    "cohens_d": -1.2306024076350188,
+    "effect_size": "large"
+  }
+}

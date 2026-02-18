@@ -1,0 +1,28 @@
+{
+  "theorem": "network_optima_prediction_protocol_v1",
+  "claim_subset": {
+    "optima_nodes": [
+      13,
+      144,
+      1728
+    ],
+    "phase_transition_threshold": 137
+  },
+  "structural_checks": {
+    "optima_len": 3,
+    "thirteen_is_12_plus_1": true,
+    "onefortyfour_is_12_sq": true,
+    "oneseventwentyeight_is_12_cu": true,
+    "ordered": true,
+    "threshold_is_7_below_144": true
+  },
+  "distance_to_threshold": {
+    "distance_by_optimum": {
+      "13": 124,
+      "144": 7,
+      "1728": 1591
+    },
+    "nearest_optimum_to_137": 144,
+    "nearest_distance": 7
+  }
+}

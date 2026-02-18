@@ -1,0 +1,155 @@
+{
+  "theorem": "boundary_overlap_prediction_protocol_v1",
+  "model": {
+    "cycle": 14,
+    "rest": 10,
+    "max_generation": 10,
+    "boundary_offsets": [
+      1,
+      2,
+      3
+    ],
+    "control_offsets": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "boundary_window": {
+    "events": 30,
+    "parent_complete_count": 30,
+    "child_seed_count": 30,
+    "overlap_count": 30,
+    "exact_pair_count": 30,
+    "overlap_rate": 1.0,
+    "first_five": [
+      {
+        "generation": 0,
+        "offset": 1,
+        "tick": 11,
+        "parent_state": 11,
+        "child_state": 1,
+        "parent_complete": true,
+        "child_seed": true,
+        "overlap": true,
+        "exact_pair": true
+      },
+      {
+        "generation": 0,
+        "offset": 2,
+        "tick": 12,
+        "parent_state": 12,
+        "child_state": 2,
+        "parent_complete": true,
+        "child_seed": true,
+        "overlap": true,
+        "exact_pair": true
+      },
+      {
+        "generation": 0,
+        "offset": 3,
+        "tick": 13,
+        "parent_state": 13,
+        "child_state": 3,
+        "parent_complete": true,
+        "child_seed": true,
+        "overlap": true,
+        "exact_pair": true
+      },
+      {
+        "generation": 1,
+        "offset": 1,
+        "tick": 21,
+        "parent_state": 11,
+        "child_state": 1,
+        "parent_complete": true,
+        "child_seed": true,
+        "overlap": true,
+        "exact_pair": true
+      },
+      {
+        "generation": 1,
+        "offset": 2,
+        "tick": 22,
+        "parent_state": 12,
+        "child_state": 2,
+        "parent_complete": true,
+        "child_seed": true,
+        "overlap": true,
+        "exact_pair": true
+      }
+    ]
+  },
+  "control_window": {
+    "events": 100,
+    "parent_complete_count": 0,
+    "child_seed_count": 0,
+    "overlap_count": 0,
+    "exact_pair_count": 0,
+    "overlap_rate": 0.0,
+    "first_five": [
+      {
+        "generation": 0,
+        "offset": 4,
+        "tick": 14,
+        "parent_state": 0,
+        "child_state": 4,
+        "parent_complete": false,
+        "child_seed": false,
+        "overlap": false,
+        "exact_pair": false
+      },
+      {
+        "generation": 0,
+        "offset": 5,
+        "tick": 15,
+        "parent_state": 1,
+        "child_state": 5,
+        "parent_complete": false,
+        "child_seed": false,
+        "overlap": false,
+        "exact_pair": false
+      },
+      {
+        "generation": 0,
+        "offset": 6,
+        "tick": 16,
+        "parent_state": 2,
+        "child_state": 6,
+        "parent_complete": false,
+        "child_seed": false,
+        "overlap": false,
+        "exact_pair": false
+      },
+      {
+        "generation": 0,
+        "offset": 7,
+        "tick": 17,
+        "parent_state": 3,
+        "child_state": 7,
+        "parent_complete": false,
+        "child_seed": false,
+        "overlap": false,
+        "exact_pair": false
+      },
+      {
+        "generation": 0,
+        "offset": 8,
+        "tick": 18,
+        "parent_state": 4,
+        "child_state": 8,
+        "parent_complete": false,
+        "child_seed": false,
+        "overlap": false,
+        "exact_pair": false
+      }
+    ]
+  }
+}

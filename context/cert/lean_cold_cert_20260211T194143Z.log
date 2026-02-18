@@ -1,0 +1,28 @@
+timestamp_utc: 20260211T194143Z
+cwd: /Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine
+lean_toolchain: leanprover/lean4:v4.26.0-rc2
+--- versions ---
+elan 4.1.2 (58e8d545e 2025-05-26)
+Lake version 5.0.0-src+9d4ad12 (Lean version 4.26.0-rc2)
+Python 3.9.6
+--- RUN: ~/.elan/bin/lake clean ---
+--- RUN: cold build timing (~/.elan/bin/lake build) ---
+✖ [2/7] Building Layer0_Kernel (175ms)
+trace: .> LEAN_PATH=/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/Cli/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/batteries/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/Qq/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/aesop/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/proofwidgets/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/importGraph/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/plausible/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/mathlib/.lake/build/lib/lean:/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/build/lib/lean /Users/dcharb/.elan/toolchains/leanprover--lean4---v4.26.0-rc2/bin/lean /Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/lean/Layer0_Kernel.lean -o /Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/build/lib/lean/Layer0_Kernel.olean -i /Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/build/lib/lean/Layer0_Kernel.ilean -c /Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/build/ir/Layer0_Kernel.c --setup /Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/build/ir/Layer0_Kernel.setup.json --json
+error: lean/Layer0_Kernel.lean:1:0: unknown module prefix 'CycleStep_Orbit_Theorem'
+
+No directory 'CycleStep_Orbit_Theorem' or file 'CycleStep_Orbit_Theorem.olean' in the search path entries:
+/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/Cli/.lake/build/lib/lean
+/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/batteries/.lake/build/lib/lean
+/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/Qq/.lake/build/lib/lean
+/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/aesop/.lake/build/lib/lean
+/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/proofwidgets/.lake/build/lib/lean
+/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/importGraph/.lake/build/lib/lean
+/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/LeanSearchClient/.lake/build/lib/lean
+/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/plausible/.lake/build/lib/lean
+/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/packages/mathlib/.lake/build/lib/lean
+/Users/dcharb/Documents/Kimi_Agent_UFRF, Fel Polynomials, Moonshine/.lake/build/lib/lean
+/Users/dcharb/.elan/toolchains/leanprover--lean4---v4.26.0-rc2/lib/lean
+error: Lean exited with code 1
+Some required targets logged failures:
+- Layer0_Kernel

@@ -1,0 +1,50 @@
+{
+  "theorem": "projection_technique_variation_protocol_v1",
+  "claim_subset": {
+    "law": "ln O = ln O* + d_M * alpha * S",
+    "focus": "technique-dependent alpha variation"
+  },
+  "parameters": {
+    "ln_o_star": {
+      "num": 0,
+      "den": 1
+    },
+    "d_m": {
+      "num": 2,
+      "den": 1
+    },
+    "s": {
+      "num": 3,
+      "den": 1
+    },
+    "alpha1": {
+      "num": 1,
+      "den": 10
+    },
+    "alpha2": {
+      "num": 1,
+      "den": 5
+    }
+  },
+  "structural_checks": {
+    "alpha1_not_alpha2": true,
+    "ln_o1_not_ln_o2": true,
+    "difference_matches_projection_law": true,
+    "ln_o1": {
+      "num": 3,
+      "den": 5
+    },
+    "ln_o2": {
+      "num": 6,
+      "den": 5
+    },
+    "actual_diff": {
+      "num": 3,
+      "den": 5
+    },
+    "expected_diff": {
+      "num": 3,
+      "den": 5
+    }
+  }
+}

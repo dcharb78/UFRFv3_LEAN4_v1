@@ -1,0 +1,33 @@
+{
+  "theorem": "monster_mod1001_order_classes_protocol_v1",
+  "claim_subset": {
+    "modulus": 1001,
+    "monster_anchors": [
+      47,
+      59,
+      71
+    ],
+    "c1": 196884
+  },
+  "structural_checks": {
+    "all_anchors_coprime_to_1001": true,
+    "anchor_orders": {
+      "47": 60,
+      "59": 60,
+      "71": 60
+    },
+    "anchors_exact_order_60": {
+      "47": true,
+      "59": true,
+      "71": true
+    },
+    "all_anchors_exact_order_60": true,
+    "product": 196883,
+    "product_residue_mod1001": 687,
+    "product_residue_exact_order_60": true,
+    "c1_residue_mod1001": 688,
+    "c1_residue_exact_order_30": true,
+    "source3_exact_order_30": true,
+    "c1_and_source3_share_order_class_30": true
+  }
+}

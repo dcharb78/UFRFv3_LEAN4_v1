@@ -1,0 +1,41 @@
+{
+  "theorem": "j_function_coefficient",
+  "monster_generators": [
+    47,
+    59,
+    71
+  ],
+  "monster_product": 196883,
+  "j_coefficients": {
+    "-1": 1,
+    "0": 744,
+    "1": 196884,
+    "2": 21493760,
+    "3": 864299970,
+    "4": 20245856256,
+    "5": 333202640600
+  },
+  "verified": {
+    "c_1_equals_product_plus_1": true,
+    "c_1": 196884,
+    "product": 196883,
+    "product_plus_1": 196884
+  },
+  "power_sums": {
+    "sigma_1": 177,
+    "sigma_2": 10731,
+    "sigma_3": 667113,
+    "sigma_4": 42408723,
+    "sigma_5": 2748498657,
+    "sigma_6": 181060032891,
+    "sigma_7": 12090394763673
+  },
+  "elementary_symmetric": {
+    "e_0": 1,
+    "e_1": 177,
+    "e_2": 10299,
+    "e_3": 196883
+  },
+  "conclusion": "j-coefficients determined by Monster generator structure",
+  "synthesis_complete": true
+}

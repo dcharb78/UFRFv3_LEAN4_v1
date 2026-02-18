@@ -1,0 +1,49 @@
+canonical_id,preferred_route,lane,confidence_max,score_formalizability,score_cross_view,score_axiom_efficiency,score_novelty,priority_score,action_path,status,notes
+CC-0023,Lean-now,Kernel,0.95,1.000,0.800,0.950,0.500,0.905,lean_first,completed,formalized_in_lean/Interface_Polynomial_Identities_Theorem.lean
+CC-0014,Lean-now,Bridge,0.95,1.000,0.850,0.850,0.650,0.898,lean_first,completed,formalized_in_lean/Interval_Inversion_Ratio_Theorem.lean
+CC-0011,Lean-now,Kernel,1.00,1.000,0.700,0.950,0.650,0.896,lean_first,completed,formalized_in_lean/Tzolkin_Identity_Theorem.lean
+CC-0013,Lean-now,Kernel,1.00,1.000,0.700,0.950,0.650,0.896,lean_first,completed,formalized_in_lean/Inverse_Constant_Definition_Theorem.lean
+CC-0015,Lean-now,Kernel,1.00,1.000,0.700,0.950,0.650,0.896,lean_first,completed,formalized_in_lean/Golden_Silver_Inverse_Identities_Theorem.lean
+CC-0021,Lean-now,Kernel,1.00,1.000,0.700,0.950,0.650,0.896,lean_first,completed,formalized_in_lean/Triad_Balance_Definition_Theorem.lean
+CC-0010,Lean-now,Kernel,0.98,1.000,0.700,0.950,0.650,0.895,lean_first,completed,formalized_in_lean/Dimensional_Doubling_Sequence_Theorem.lean
+CC-0016,Lean-now,Kernel,0.98,1.000,0.700,0.950,0.650,0.895,lean_first,completed,formalized_in_lean/Golden_Silver_Inverse_Identities_Theorem.lean
+CC-0002,Lean-now,Kernel,0.95,1.000,0.700,0.950,0.650,0.893,lean_first,completed,formalized_in_lean/C_Transform_Identity_Theorem.lean
+CC-0030,Lean-now,Kernel,0.90,1.000,0.700,0.950,0.650,0.891,lean_first,completed,formalized_in_lean/Multi_Constant_Resonance_Model_Theorem.lean
+CC-0040,Lean-now,Kernel,0.60,1.000,0.700,0.950,0.650,0.876,lean_first,completed,formalized_in_lean/SL_Mirror_Involution_REST_Theorem.lean
+CC-0035,Compute-first,Kernel,0.85,0.802,0.700,0.800,0.650,0.771,compute_then_lean_anchor,queued,singleton
+CC-0026,Compute-first,Bridge,0.80,0.695,0.850,0.700,0.650,0.733,compute_then_lean_anchor,queued,singleton
+CC-0046,Compute-first,Bridge,0.75,0.688,0.850,0.700,0.650,0.727,compute_then_lean_anchor,queued,singleton
+CC-0017,Compute-first,Bridge,0.70,0.680,0.850,0.700,0.650,0.722,compute_then_lean_anchor,queued,singleton
+CC-0007,Compute-first,Bridge,0.65,0.672,0.900,0.700,0.550,0.721,compute_then_lean_anchor,queued,merged
+CC-0008,Compute-first,Bridge,0.60,0.665,0.850,0.700,0.650,0.711,compute_then_lean_anchor,queued,singleton
+CC-0018,Compute-first,Bridge,0.60,0.665,0.850,0.700,0.650,0.711,compute_then_lean_anchor,queued,singleton
+CC-0051,Compute-first,Bridge,0.60,0.665,0.850,0.700,0.650,0.711,compute_then_lean_anchor,queued,singleton
+CC-0053,Compute-first,Evidence,0.95,0.667,0.650,0.700,0.650,0.686,compute_then_lean_anchor,queued,singleton
+CC-0001,Compute-first,Evidence,0.80,0.645,0.650,0.700,0.650,0.670,compute_then_lean_anchor,queued,singleton
+CC-0022,Compute-first,Evidence,0.75,0.637,0.700,0.700,0.550,0.668,compute_then_lean_anchor,queued,merged
+CC-0039,Compute-first,Evidence,0.75,0.637,0.650,0.700,0.650,0.664,compute_then_lean_anchor,queued,singleton
+CC-0003,Compute-first,Evidence,0.70,0.630,0.650,0.700,0.650,0.659,compute_then_lean_anchor,queued,singleton
+CC-0038,Compute-first,Evidence,0.70,0.630,0.650,0.700,0.650,0.659,compute_then_lean_anchor,queued,singleton
+CC-0041,Compute-first,Evidence,0.65,0.622,0.650,0.700,0.650,0.654,compute_then_lean_anchor,queued,singleton
+CC-0004,Compute-first,Evidence,0.60,0.615,0.650,0.700,0.650,0.648,compute_then_lean_anchor,queued,singleton
+CC-0027,Compute-first,Evidence,0.55,0.607,0.650,0.700,0.650,0.643,compute_then_lean_anchor,queued,singleton
+CC-0048,Compute-first,Evidence,0.55,0.607,0.650,0.700,0.650,0.643,compute_then_lean_anchor,queued,singleton
+CC-0031,Compute-first,Evidence,0.50,0.600,0.700,0.700,0.550,0.642,compute_then_lean_anchor,queued,merged
+CC-0009,Compute-first,Physics bridge,0.55,0.558,0.800,0.600,0.650,0.629,compute_then_lean_anchor,queued,singleton
+CC-0028,Compute-first,Physics bridge,0.50,0.550,0.800,0.600,0.650,0.624,compute_then_lean_anchor,queued,singleton
+CC-0033,Compute-first,Evidence,0.05,0.532,0.650,0.700,0.650,0.589,compute_then_lean_anchor,queued,singleton
+CC-0045,Conjecture,Kernel,0.45,0.342,0.700,0.450,0.650,0.478,spec_and_prerequisites,queued,singleton
+CC-0037,Conjecture,Bridge,0.45,0.242,0.850,0.350,0.650,0.445,spec_and_prerequisites,queued,singleton
+CC-0006,Conjecture,Bridge,0.40,0.235,0.850,0.350,0.650,0.440,spec_and_prerequisites,queued,singleton
+CC-0029,Conjecture,Bridge,0.40,0.235,0.850,0.350,0.650,0.440,spec_and_prerequisites,queued,singleton
+CC-0036,Conjecture,Bridge,0.30,0.220,0.850,0.350,0.650,0.429,spec_and_prerequisites,queued,singleton
+CC-0025,Conjecture,Anchor,0.35,0.178,0.750,0.300,0.650,0.379,spec_and_prerequisites,queued,singleton
+CC-0050,Conjecture,Anchor,0.25,0.163,0.750,0.300,0.650,0.369,spec_and_prerequisites,queued,singleton
+CC-0005,Conjecture,Anchor,0.20,0.155,0.750,0.300,0.650,0.363,spec_and_prerequisites,queued,singleton
+CC-0042,Conjecture,Physics bridge,0.40,0.135,0.800,0.250,0.650,0.363,spec_and_prerequisites,queued,singleton
+CC-0043,Conjecture,Anchor,0.20,0.155,0.750,0.300,0.650,0.363,spec_and_prerequisites,queued,singleton
+CC-0047,Conjecture,Physics bridge,0.40,0.135,0.800,0.250,0.650,0.363,spec_and_prerequisites,queued,singleton
+CC-0012,Conjecture,Physics bridge,0.35,0.128,0.800,0.250,0.650,0.357,spec_and_prerequisites,queued,singleton
+CC-0049,Conjecture,Physics bridge,0.35,0.128,0.800,0.250,0.650,0.357,spec_and_prerequisites,queued,singleton
+CC-0019,Conjecture,Physics bridge,0.30,0.120,0.800,0.250,0.650,0.352,spec_and_prerequisites,queued,singleton
+CC-0020,Conjecture,Physics bridge,0.25,0.112,0.800,0.250,0.650,0.347,spec_and_prerequisites,queued,singleton

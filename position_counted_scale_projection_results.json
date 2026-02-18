@@ -1,0 +1,34 @@
+{
+  "theorem": "position_counted_scale_projection_protocol_v1",
+  "claim_subset": {
+    "position_counted_ladder": "13, 13^2, 13^3",
+    "sl1_comparator": "position_counted 169 vs geometric 139.5"
+  },
+  "structural_checks": {
+    "ladder_exact": true,
+    "sl1_ratio_consistent": true,
+    "values": {
+      "position_ladder": [
+        13,
+        169,
+        2197
+      ],
+      "geometric_sl1": {
+        "num": 279,
+        "den": 2
+      },
+      "ratio_pos_over_geom": {
+        "num": 338,
+        "den": 279
+      },
+      "intrinsic_per_position": {
+        "num": 279,
+        "den": 338
+      },
+      "observer_to_intrinsic": {
+        "num": 338,
+        "den": 279
+      }
+    }
+  }
+}

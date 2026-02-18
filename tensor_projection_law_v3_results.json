@@ -1,0 +1,104 @@
+{
+  "theorem": "tensor_projection_law_v3_protocol_v1",
+  "claim_subset": {
+    "formula": "ln O_d = ln O*_d + sum_j P_dj * O*_j",
+    "axes": [
+      "E",
+      "B",
+      "B'"
+    ]
+  },
+  "tensor_entries": [
+    [
+      {
+        "num": 1727,
+        "den": 500
+      },
+      {
+        "num": 21,
+        "den": 500
+      },
+      {
+        "num": 21,
+        "den": 500
+      }
+    ],
+    [
+      {
+        "num": 21,
+        "den": 500
+      },
+      {
+        "num": 102,
+        "den": 125
+      },
+      {
+        "num": 9,
+        "den": 200
+      }
+    ],
+    [
+      {
+        "num": 21,
+        "den": 500
+      },
+      {
+        "num": 9,
+        "den": 200
+      },
+      {
+        "num": 219,
+        "den": 500
+      }
+    ]
+  ],
+  "structural_checks": {
+    "shape_3x3": true,
+    "offdiag_symmetric": true,
+    "diagonal_dominance_by_row": true,
+    "diag_entries": [
+      {
+        "num": 1727,
+        "den": 500
+      },
+      {
+        "num": 102,
+        "den": 125
+      },
+      {
+        "num": 219,
+        "den": 500
+      }
+    ]
+  },
+  "derived_values": {
+    "row_sums": [
+      {
+        "num": 1769,
+        "den": 500
+      },
+      {
+        "num": 903,
+        "den": 1000
+      },
+      {
+        "num": 21,
+        "den": 40
+      }
+    ],
+    "projected_ones": [
+      {
+        "num": 2269,
+        "den": 500
+      },
+      {
+        "num": 1903,
+        "den": 1000
+      },
+      {
+        "num": 61,
+        "den": 40
+      }
+    ]
+  }
+}

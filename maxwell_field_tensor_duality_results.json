@@ -1,0 +1,45 @@
+{
+  "antisymmetric_F_ok": true,
+  "dual2_is_neg_ok": true,
+  "dual_rule": "*(E,B)=(B,-E)",
+  "example": {
+    "B": [
+      4,
+      5,
+      6
+    ],
+    "E": [
+      1,
+      2,
+      3
+    ],
+    "F": [
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [
+        -1,
+        0,
+        6,
+        -5
+      ],
+      [
+        -2,
+        -6,
+        0,
+        4
+      ],
+      [
+        -3,
+        5,
+        -4,
+        0
+      ]
+    ]
+  },
+  "ok": true,
+  "theorem": "maxwell_field_tensor_duality_protocol_v1"
+}

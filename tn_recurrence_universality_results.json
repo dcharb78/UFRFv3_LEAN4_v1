@@ -1,0 +1,49 @@
+{
+  "theorem": "Tn_recurrence_universality",
+  "ufrf_generators": [
+    3,
+    5,
+    7,
+    11,
+    13
+  ],
+  "monster_generators": [
+    47,
+    59,
+    71
+  ],
+  "Tn_ufrf": [
+    "1",
+    "39/2",
+    "1234/3",
+    "36933/4",
+    "2180193/10",
+    "21477105/4",
+    "2877505384/21",
+    "3605201288"
+  ],
+  "Tn_monster": [
+    "1",
+    "177/2",
+    "17453/2",
+    "1861155/2",
+    "527068603/5",
+    "50130737031/4",
+    "130229582319145/84",
+    "793017479686525/4"
+  ],
+  "verified_formulas": {
+    "T2": "(3*T1^2 + sigma2) / 12",
+    "T3": "sigma1*(sigma1^2 + sigma2) / 8"
+  },
+  "ufrf_verification": {
+    "T2_computed": 411.3333333333333,
+    "T2_formula": 411.3333333333333,
+    "match": true
+  },
+  "monster_verification": {
+    "T2_computed": 8726.5,
+    "T2_formula": 8726.5,
+    "match": true
+  }
+}

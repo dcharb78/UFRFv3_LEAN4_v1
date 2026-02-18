@@ -1,0 +1,14 @@
+{
+  "d": 10,
+  "m_scaled": 10,
+  "ok": true,
+  "p_scaled": [
+    20,
+    3,
+    -1,
+    2
+  ],
+  "scalar": 286,
+  "symbolic_simplify_used": true,
+  "theorem": "dirac_factorization_scaled_protocol_v1"
+}

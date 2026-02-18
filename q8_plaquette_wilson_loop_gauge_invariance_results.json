@@ -1,0 +1,27 @@
+{
+  "checked_cases": 1048576,
+  "conjugation_identity_ok": true,
+  "edge_cases": 256,
+  "edge_subset": [
+    "I",
+    "qi",
+    "qj",
+    "qk"
+  ],
+  "edge_subset_size": 4,
+  "elem_order": [
+    "I",
+    "-I",
+    "qi",
+    "-qi",
+    "qj",
+    "-qj",
+    "qk",
+    "-qk"
+  ],
+  "gauge_assignments": 4096,
+  "observable": "tr2(plaquette(U')) = tr2(plaquette(U))",
+  "ok": true,
+  "theorem": "q8_plaquette_wilson_loop_gauge_invariance_protocol_v1",
+  "trace_invariant_ok": true
+}

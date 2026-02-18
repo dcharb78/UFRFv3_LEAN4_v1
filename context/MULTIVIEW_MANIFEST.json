@@ -1,0 +1,123 @@
+{
+  "views": [
+    {
+      "name": "Kernel_Discrete_Closure",
+      "required_paths": [
+        "lean/Layer0_Kernel.lean",
+        "lean/CycleStep_Orbit_Theorem.lean",
+        "lean/CycleStep_Orbit_NAxes_Theorem.lean",
+        "lean/System_Node_ModProd_Theorem.lean",
+        "lean/NodeClosure_Singleton_Generic_Theorem.lean",
+        "lean/REST_Seam_Core_Theorem.lean",
+        "lean/REST_Seam_Classification_Theorem.lean",
+        "lean/Seam_Generic_Classification_Theorem.lean",
+        "lean/REST_Seam_Transport_Core_Theorem.lean",
+        "lean/Seam_Generic_API_Theorem.lean",
+        "lean/Seam_Generic_NodeClosure_Bridge_Theorem.lean",
+        "lean/REST_Seam_Generic_Canonical_Equiv_Theorem.lean",
+        "lean/REST_Seam_Transport_Theorem.lean",
+        "lean/REST_Seam_NodeClosure_Bridge_Theorem.lean",
+        "lean/REST_Seam_SystemCoordMixed_Bridge_Theorem.lean",
+        "lean/SL13_Cardinality_Theorem.lean",
+        "lean/Prime_Self_Perspective_Theorem.lean",
+        "lean/Trinity_Source_4441_Theorem.lean"
+      ]
+    },
+    {
+      "name": "Recursive_IndexOfIndexes",
+      "required_paths": [
+        "lean/Layer1_Core.lean",
+        "lean/Index_Of_Indexes_Theorem.lean",
+        "lean/Recursive_Grid_Generic_Base_Theorem.lean",
+        "lean/REST_Seam_RecursiveGrid_Bridge_Theorem.lean",
+        "lean/RecursiveGrid_IndexOfIndexes_Bridge_Theorem.lean"
+      ]
+    },
+    {
+      "name": "Semigroup_Gap_Structure",
+      "required_paths": [
+        "lean/Semigroup_Standard_Semantics_Theorem.lean",
+        "lean/UFRF_Minimal_Semigroup_Seed_Theorem.lean",
+        "lean/Seed_Inevitability_GapSignature_Theorem.lean",
+        "lean/Seed_To_Frobenius_Emergence_Bridge_Theorem.lean",
+        "lean/Selection_Lens_Nonredundancy_Schema_Theorem.lean",
+        "lean/UFRF_Global_Gap_Theorem.lean",
+        "lean/Gap_Set_Prime_Theorem.lean"
+      ]
+    },
+    {
+      "name": "Harmonic_Music_View",
+      "required_paths": [
+        "lean/Layer2_Bridges.lean",
+        "lean/Diminished_Chord_ZMod12_Theorem.lean",
+        "lean/Chromatic_Breathing_52_Concurrency_Theorem.lean",
+        "lean/Angular_Embedding_Discrete_Quotient_Theorem.lean",
+        "lean/Fourier_ZMod_DFT_Translation_Theorem.lean",
+        "lean/Fourier_ZMod_DFT_Convolution_Theorem.lean",
+        "lean/Spherical_Harmonic_Breathing_Theorem.lean"
+      ]
+    },
+    {
+      "name": "Moonshine_Modular_View",
+      "required_paths": [
+        "lean/Layer3_Anchors.lean",
+        "lean/Frobenius_Emergence_Theorem.lean",
+        "lean/J_Function_Coefficient_Theorem.lean",
+        "lean/Moonshine_LogMod_Coordinates_Theorem.lean",
+        "lean/Tn_Exact_Definition.lean"
+      ]
+    },
+    {
+      "name": "Observer_Projection_View",
+      "required_paths": [
+        "lean/Observer_Tick_Axis_Choice_Theorem.lean",
+        "lean/Observer_Tick_Axis_Family_Theorem.lean",
+        "lean/Observer_Scale_Projection_Composition_Theorem.lean",
+        "lean/Aspect_Projection_Kernel_Theorem.lean",
+        "lean/Noether_Symmetry_Conservation_Lens_Theorem.lean",
+        "lean/Composed_Tick_API_Theorem.lean",
+        "lean/REST_Seam_AspectProjection_Bridge_Theorem.lean",
+        "lean/REST_Seam_ObserverProjection_Bridge_Theorem.lean",
+        "lean/REST_Seam_Unified_Interface_Core_Theorem.lean",
+        "lean/REST_Seam_Unified_Interface_Theorem.lean",
+        "lean/Multidimensional_Ticks_Theorem.lean"
+      ]
+    },
+    {
+      "name": "Physics_Bridge_Drafts",
+      "required_paths": [
+        "RequestedInfo/10-ufrf-fourier-connection.md",
+        "RequestedInfo/UFRF_YangMills_Restored.md",
+        "RequestedInfo/UFRF_AllGreen_Package_v1.0/README.md",
+        "REQUESTEDINFO_HOLISTIC_REVIEW_PLAN.md",
+        "RequestedInfo/Constants",
+        "RequestedInfo/ReallyOldbutRelevant",
+        "RequestedInfo/review_state/REVIEW_BACKLOG.csv",
+        "RequestedInfo/review_state/CLAIM_ATOMS.csv",
+        "lean/UFRF_Core_DualTrinity_FineStructure_Theorem.lean",
+        "lean/Fine_Structure_Internal_Consistency_Theorem.lean",
+        "lean/Dirac_Clifford_Anticommutator_Protocol_Theorem.lean",
+        "lean/Pauli_Quaternion_Q8_Gauge_Invariance_Protocol_Theorem.lean",
+        "lean/Q8_Wilson_Loop_Gauge_Invariance_Protocol_Theorem.lean",
+        "lean/Maxwell_Poynting_Identity_Protocol_Theorem.lean",
+        "lean/Maxwell_Field_Tensor_Duality_Protocol_Theorem.lean",
+        "lean/Maxwell_Invariants_From_Tensor_Protocol_Theorem.lean",
+        "lean/Maxwell_Duality_Invariants_Protocol_Theorem.lean",
+        "lean/Maxwell_Tensor_Hodge_Star_Protocol_Theorem.lean",
+        "lean/Maxwell_Tensor_Duality_Noether_Protocol_Theorem.lean"
+      ]
+    },
+    {
+      "name": "Computational_Evidence",
+      "required_paths": [
+        "sigma1_theorem_verification.py",
+        "tn_recurrence_universality.py",
+        "gap_set_prime_theorem.py",
+        "prime_choreography_autocorr_protocol.py",
+        "riemann_zero_exclusion_corrected.py",
+        "j_function_coefficient_theorem.py",
+        "j_qexp_from_delta_e4_protocol.py"
+      ]
+    }
+  ]
+}

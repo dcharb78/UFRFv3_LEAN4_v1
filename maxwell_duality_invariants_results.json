@@ -1,0 +1,57 @@
+{
+  "cases": 15625,
+  "duality": "\u22c6(E,B)=(B,-E)",
+  "i1_sign_flip_all": true,
+  "i1_squared_invariant_all": true,
+  "i1sq_plus_i2sq_invariant_all": true,
+  "i2_sign_flip_all": true,
+  "i2_squared_invariant_all": true,
+  "invariants": {
+    "i1": "|E|^2-|B|^2",
+    "i2": "E\u00b7B",
+    "s": "E\u00d7B"
+  },
+  "ok": true,
+  "poynting_cross_invariant_all": true,
+  "theorem": "maxwell_duality_invariants_protocol_v1",
+  "window": {
+    "max": 2,
+    "min": -2
+  },
+  "witness": {
+    "b": [
+      -2,
+      -2,
+      -2
+    ],
+    "dual_b": [
+      2,
+      2,
+      2
+    ],
+    "dual_e": [
+      -2,
+      -2,
+      -2
+    ],
+    "e": [
+      -2,
+      -2,
+      -2
+    ],
+    "i1": 0,
+    "i1_dual": 0,
+    "i2": 12,
+    "i2_dual": -12,
+    "s": [
+      0,
+      0,
+      0
+    ],
+    "s_dual": [
+      0,
+      0,
+      0
+    ]
+  }
+}
