@@ -63,3 +63,9 @@ See:
 
 - `MULTI_AGENT_WORKFLOW.md`
 - `PRIMARY_HARDENING_WORKFLOW.md`
+
+## License
+
+Unless otherwise noted in specific subdirectories/files, this project is released into the public
+domain under **The Unlicense** (see `LICENSE`). Some historical/source materials under
+`RequestedInfo/` include their own license statements.
