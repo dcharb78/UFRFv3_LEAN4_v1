@@ -108,6 +108,29 @@ Scope note (j-function):
 - Do not maintain duplicate long-form step histories across multiple docs.
 - When hardening mode is active, treat `PRIMARY_HARDENING_WORKFLOW.md` as the primary execution workflow and pause theorem-surface expansion.
 
+## Git Worktree + PRD Workflow
+
+Keep day-to-day work isolated and reviewable:
+
+1. One task = one branch + one worktree.
+   - Branch naming: `codex/<short-task-name>`
+   - Do not stack unrelated tasks on one branch.
+2. Prefer no direct edits on `main`.
+   - Use PR-style flow even when working solo.
+3. For non-trivial work, write a PRD before coding.
+   - Non-trivial means: cross-lane changes, global wiring changes, or multi-file theorem/protocol additions.
+   - Use `docs/PRD_TEMPLATE.md`.
+4. Follow the step gate checklist for every task.
+   - Use `docs/CHANGE_CHECKLIST.md`.
+5. Required validation before merge/push:
+   - `./scripts/verify.sh`
+   - `./scripts/certify.sh` when milestone/hardening claims are updated.
+   - `./scripts/certify.sh --clean` when toolchain/build wiring changes (`lakefile.lean`, `lean-toolchain`, global scripts).
+6. Keep worktree lifecycle clean:
+   - create -> execute -> validate -> merge -> remove worktree branch.
+
+Detailed command workflow lives in `docs/WORKTREE_WORKFLOW.md`.
+
 ## Pre-Proof Drift Gate (Run Before New Bridge Claims)
 
 1. Duplicate-scope check:

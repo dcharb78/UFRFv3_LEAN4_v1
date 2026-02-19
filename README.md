@@ -63,6 +63,9 @@ See:
 
 - `MULTI_AGENT_WORKFLOW.md`
 - `PRIMARY_HARDENING_WORKFLOW.md`
+- `docs/WORKTREE_WORKFLOW.md`
+- `docs/PRD_TEMPLATE.md`
+- `docs/CHANGE_CHECKLIST.md`
 
 ## License
 
